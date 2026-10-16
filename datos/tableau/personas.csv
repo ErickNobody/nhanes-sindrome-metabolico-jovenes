@@ -1,0 +1,1144 @@
+﻿ID,Sexo,Edad,Grupo de edad,Categoría IMC,IMC,Cintura cm,Ácido úrico mg/dL,Componentes alterados,Cuáles componentes,Síndrome metabólico,Hiperuricemia,Indicador síndrome,Indicador síndrome sin diagnóstico,Indicador hiperuricemia,Sabía que tenía síndrome
+73568,Mujer,26,25-29 años,Normal,20.3,73.7,4.5,0.0,ninguno,No,No,0.0,,0.0,No aplica
+73585,Hombre,28,25-29 años,Obesidad,30.1,90.3,6.6,1.0,triglicéridos,No,No,0.0,,0.0,No aplica
+73589,Hombre,35,30-35 años,Sobrepeso,26.2,94.6,6.8,0.0,ninguno,No,No,0.0,,0.0,No aplica
+73592,Hombre,29,25-29 años,Obesidad,31.0,107.7,8.8,3.0,"cintura, HDL bajo, glucosa",Sí,Sí,1.0,1.0,1.0,"No, sin diagnóstico previo"
+73594,Hombre,23,18-24 años,Normal,24.7,88.6,5.7,1.0,triglicéridos,No,No,0.0,,0.0,No aplica
+73598,Hombre,20,18-24 años,Obesidad,31.8,98.6,5.2,2.0,"triglicéridos, glucosa",No,No,0.0,,0.0,No aplica
+73603,Hombre,35,30-35 años,Obesidad,34.9,113.7,6.0,4.0,"cintura, triglicéridos, HDL bajo, glucosa",Sí,No,1.0,0.0,0.0,"Sí, tenía algún diagnóstico"
+73624,Mujer,31,30-35 años,Sobrepeso,28.3,97.7,2.9,2.0,"cintura, triglicéridos",No,No,0.0,,0.0,No aplica
+73629,Mujer,26,25-29 años,Obesidad,36.5,103.6,3.9,1.0,cintura,No,No,0.0,,0.0,No aplica
+73632,Hombre,23,18-24 años,Obesidad,31.7,106.0,4.7,2.0,"cintura, HDL bajo",No,No,0.0,,0.0,No aplica
+73661,Hombre,25,25-29 años,Normal,21.0,73.2,5.8,0.0,ninguno,No,No,0.0,,0.0,No aplica
+73663,Hombre,25,25-29 años,Obesidad,33.0,109.6,6.7,2.0,"cintura, glucosa",No,No,0.0,,0.0,No aplica
+73667,Hombre,24,18-24 años,Sobrepeso,29.1,97.1,5.5,0.0,ninguno,No,No,0.0,,0.0,No aplica
+73668,Mujer,30,30-35 años,Obesidad,32.3,108.8,6.0,3.0,"cintura, HDL bajo, glucosa",Sí,Sí,1.0,1.0,1.0,"No, sin diagnóstico previo"
+73675,Hombre,29,25-29 años,Sobrepeso,25.3,86.0,8.1,2.0,"triglicéridos, HDL bajo",No,Sí,0.0,,1.0,No aplica
+73698,Hombre,23,18-24 años,Sobrepeso,29.1,95.8,8.6,2.0,"triglicéridos, HDL bajo",No,Sí,0.0,,1.0,No aplica
+73714,Mujer,29,25-29 años,Sobrepeso,26.4,87.1,3.1,0.0,ninguno,No,No,0.0,,0.0,No aplica
+73716,Hombre,25,25-29 años,Sobrepeso,26.3,87.4,4.7,1.0,glucosa,No,No,0.0,,0.0,No aplica
+73724,Hombre,26,25-29 años,Normal,19.2,72.5,4.8,0.0,ninguno,No,No,0.0,,0.0,No aplica
+73749,Hombre,29,25-29 años,Normal,23.8,88.3,6.8,0.0,ninguno,No,No,0.0,,0.0,No aplica
+73757,Mujer,29,25-29 años,Obesidad,37.5,125.3,5.2,1.0,cintura,No,No,0.0,,0.0,No aplica
+73763,Mujer,31,30-35 años,Obesidad,39.7,105.5,4.0,1.0,cintura,No,No,0.0,,0.0,No aplica
+73767,Mujer,35,30-35 años,Normal,19.0,73.5,4.1,0.0,ninguno,No,No,0.0,,0.0,No aplica
+73772,Mujer,21,18-24 años,Sobrepeso,27.3,89.5,4.2,1.0,cintura,No,No,0.0,,0.0,No aplica
+73776,Mujer,19,18-24 años,Normal,22.5,73.0,3.7,0.0,ninguno,No,No,0.0,,0.0,No aplica
+73786,Mujer,18,18-24 años,Sobrepeso,29.7,89.8,6.6,3.0,"cintura, triglicéridos, HDL bajo",Sí,Sí,1.0,1.0,1.0,"No, sin diagnóstico previo"
+73802,Mujer,18,18-24 años,Normal,19.2,70.5,3.3,0.0,ninguno,No,No,0.0,,0.0,No aplica
+73813,Mujer,34,30-35 años,Sobrepeso,26.3,80.5,4.1,1.0,HDL bajo,No,No,0.0,,0.0,No aplica
+73837,Hombre,29,25-29 años,Sobrepeso,28.6,104.2,4.7,2.0,"cintura, HDL bajo",No,No,0.0,,0.0,No aplica
+73846,Mujer,24,18-24 años,Obesidad,34.4,105.8,5.1,2.0,"cintura, HDL bajo",No,No,0.0,,0.0,No aplica
+73847,Hombre,34,30-35 años,Sobrepeso,29.6,101.7,5.8,3.0,"triglicéridos, presión, glucosa",Sí,No,1.0,1.0,0.0,"No, sin diagnóstico previo"
+73850,Hombre,30,30-35 años,Normal,22.8,83.6,4.5,0.0,ninguno,No,No,0.0,,0.0,No aplica
+73868,Hombre,32,30-35 años,Sobrepeso,28.2,97.9,6.6,1.0,triglicéridos,No,No,0.0,,0.0,No aplica
+73882,Mujer,25,25-29 años,Sobrepeso,26.6,86.0,4.3,1.0,triglicéridos,No,No,0.0,,0.0,No aplica
+73906,Mujer,34,30-35 años,Sobrepeso,28.9,103.9,4.3,3.0,"cintura, triglicéridos, HDL bajo",Sí,No,1.0,1.0,0.0,"No, sin diagnóstico previo"
+73913,Hombre,26,25-29 años,Normal,22.8,89.8,4.2,1.0,presión,No,No,0.0,,0.0,No aplica
+73916,Hombre,27,25-29 años,Obesidad,32.4,108.0,6.2,3.0,"cintura, presión, glucosa",Sí,No,1.0,0.0,0.0,"Sí, tenía algún diagnóstico"
+73918,Hombre,32,30-35 años,Normal,23.2,79.6,4.0,0.0,ninguno,No,No,0.0,,0.0,No aplica
+73920,Hombre,18,18-24 años,Normal,21.1,71.9,6.4,1.0,glucosa,No,No,0.0,,0.0,No aplica
+73928,Hombre,23,18-24 años,Obesidad,32.9,103.0,8.7,1.0,cintura,No,Sí,0.0,,1.0,No aplica
+73932,Hombre,30,30-35 años,Sobrepeso,26.4,100.1,5.1,1.0,triglicéridos,No,No,0.0,,0.0,No aplica
+73934,Hombre,31,30-35 años,Sobrepeso,29.7,97.3,6.5,3.0,"HDL bajo, presión, glucosa",Sí,No,1.0,0.0,0.0,"Sí, tenía algún diagnóstico"
+73943,Hombre,19,18-24 años,Normal,21.2,73.1,5.9,0.0,ninguno,No,No,0.0,,0.0,No aplica
+73955,Mujer,31,30-35 años,Sobrepeso,29.0,97.0,4.7,2.0,"cintura, glucosa",No,No,0.0,,0.0,No aplica
+73974,Hombre,34,30-35 años,Obesidad,31.2,106.4,6.5,4.0,"cintura, triglicéridos, HDL bajo, glucosa",Sí,No,1.0,0.0,0.0,"Sí, tenía algún diagnóstico"
+74004,Mujer,31,30-35 años,Obesidad,31.2,104.2,4.4,2.0,"cintura, HDL bajo",No,No,0.0,,0.0,No aplica
+74005,Hombre,23,18-24 años,Normal,20.7,81.3,5.7,0.0,ninguno,No,No,0.0,,0.0,No aplica
+74006,Mujer,34,30-35 años,Obesidad,35.7,109.7,5.2,4.0,"cintura, HDL bajo, presión, glucosa",Sí,No,1.0,0.0,0.0,"Sí, tenía algún diagnóstico"
+74017,Mujer,18,18-24 años,Obesidad,31.9,93.1,3.7,1.0,cintura,No,No,0.0,,0.0,No aplica
+74023,Hombre,19,18-24 años,Sobrepeso,26.4,87.0,6.6,1.0,HDL bajo,No,No,0.0,,0.0,No aplica
+74051,Mujer,20,18-24 años,Sobrepeso,27.7,87.0,5.9,2.0,"triglicéridos, HDL bajo",No,Sí,0.0,,1.0,No aplica
+74077,Hombre,26,25-29 años,Sobrepeso,27.3,88.7,6.0,0.0,ninguno,No,No,0.0,,0.0,No aplica
+74091,Mujer,19,18-24 años,Sobrepeso,29.8,92.0,4.1,3.0,"cintura, triglicéridos, HDL bajo",Sí,No,1.0,1.0,0.0,"No, sin diagnóstico previo"
+74101,Mujer,34,30-35 años,Sobrepeso,27.7,105.0,5.5,3.0,"cintura, triglicéridos, HDL bajo",Sí,No,1.0,1.0,0.0,"No, sin diagnóstico previo"
+74102,Mujer,18,18-24 años,Obesidad,43.8,111.5,5.5,3.0,"cintura, triglicéridos, HDL bajo",Sí,No,1.0,1.0,0.0,"No, sin diagnóstico previo"
+74115,Hombre,27,25-29 años,Sobrepeso,25.3,87.8,6.2,2.0,"triglicéridos, HDL bajo",No,No,0.0,,0.0,No aplica
+74118,Mujer,35,30-35 años,Sobrepeso,27.3,92.3,5.7,2.0,"cintura, HDL bajo",No,No,0.0,,0.0,No aplica
+74119,Mujer,32,30-35 años,Obesidad,36.1,107.0,4.0,2.0,"cintura, triglicéridos",No,No,0.0,,0.0,No aplica
+74123,Mujer,21,18-24 años,Normal,23.5,79.4,5.1,0.0,ninguno,No,No,0.0,,0.0,No aplica
+74124,Mujer,28,25-29 años,Normal,23.0,86.3,3.4,0.0,ninguno,No,No,0.0,,0.0,No aplica
+74131,Mujer,24,18-24 años,Sobrepeso,29.5,92.8,3.6,1.0,cintura,No,No,0.0,,0.0,No aplica
+74143,Hombre,30,30-35 años,Sobrepeso,26.1,96.7,6.1,1.0,triglicéridos,No,No,0.0,,0.0,No aplica
+74150,Mujer,20,18-24 años,Normal,21.9,78.1,4.5,0.0,ninguno,No,No,0.0,,0.0,No aplica
+74159,Hombre,32,30-35 años,Obesidad,30.6,98.8,7.2,3.0,"triglicéridos, presión, glucosa",Sí,Sí,1.0,0.0,1.0,"Sí, tenía algún diagnóstico"
+74166,Mujer,28,25-29 años,Normal,22.9,89.3,7.1,3.0,"cintura, triglicéridos, HDL bajo",Sí,Sí,1.0,0.0,1.0,"Sí, tenía algún diagnóstico"
+74169,Hombre,22,18-24 años,Obesidad,35.6,109.3,6.7,2.0,"cintura, glucosa",No,No,0.0,,0.0,No aplica
+74172,Mujer,33,30-35 años,Sobrepeso,25.6,87.9,4.8,0.0,ninguno,No,No,0.0,,0.0,No aplica
+74186,Mujer,29,25-29 años,Normal,16.8,75.0,4.0,1.0,presión,No,No,0.0,,0.0,No aplica
+74187,Mujer,23,18-24 años,Sobrepeso,28.2,94.1,4.1,1.0,cintura,No,No,0.0,,0.0,No aplica
+74195,Mujer,26,25-29 años,Obesidad,45.1,138.6,5.2,3.0,"cintura, HDL bajo, glucosa",Sí,No,1.0,0.0,0.0,"Sí, tenía algún diagnóstico"
+74199,Mujer,22,18-24 años,Normal,18.8,75.9,3.0,0.0,ninguno,No,No,0.0,,0.0,No aplica
+74207,Mujer,32,30-35 años,Sobrepeso,27.6,103.0,6.5,1.0,cintura,No,Sí,0.0,,1.0,No aplica
+74232,Mujer,29,25-29 años,Normal,19.2,77.0,4.0,0.0,ninguno,No,No,0.0,,0.0,No aplica
+74235,Mujer,27,25-29 años,Obesidad,39.8,120.8,4.9,4.0,"cintura, triglicéridos, HDL bajo, glucosa",Sí,No,1.0,1.0,0.0,"No, sin diagnóstico previo"
+74239,Mujer,35,30-35 años,Normal,22.7,85.3,6.7,1.0,triglicéridos,No,Sí,0.0,,1.0,No aplica
+74243,Mujer,33,30-35 años,Obesidad,37.5,124.7,4.3,2.0,"cintura, HDL bajo",No,No,0.0,,0.0,No aplica
+74252,Mujer,18,18-24 años,Normal,22.1,78.5,4.1,0.0,ninguno,No,No,0.0,,0.0,No aplica
+74275,Mujer,29,25-29 años,Normal,20.9,71.4,5.5,0.0,ninguno,No,No,0.0,,0.0,No aplica
+74279,Mujer,21,18-24 años,Normal,20.9,79.7,4.5,1.0,HDL bajo,No,No,0.0,,0.0,No aplica
+74281,Hombre,27,25-29 años,Normal,21.3,81.6,4.9,0.0,ninguno,No,No,0.0,,0.0,No aplica
+74285,Mujer,30,30-35 años,Normal,22.4,92.6,4.9,3.0,"cintura, triglicéridos, HDL bajo",Sí,No,1.0,1.0,0.0,"No, sin diagnóstico previo"
+74293,Mujer,27,25-29 años,Obesidad,47.8,130.5,6.3,2.0,"cintura, glucosa",No,Sí,0.0,,1.0,No aplica
+74296,Hombre,26,25-29 años,Sobrepeso,25.9,81.5,5.4,2.0,"triglicéridos, HDL bajo",No,No,0.0,,0.0,No aplica
+74312,Hombre,22,18-24 años,Normal,19.7,75.5,6.2,0.0,ninguno,No,No,0.0,,0.0,No aplica
+74317,Hombre,33,30-35 años,Normal,24.4,87.5,4.7,1.0,triglicéridos,No,No,0.0,,0.0,No aplica
+74322,Hombre,18,18-24 años,Normal,18.8,73.3,6.7,1.0,HDL bajo,No,No,0.0,,0.0,No aplica
+74323,Mujer,27,25-29 años,Normal,20.2,79.8,4.6,0.0,ninguno,No,No,0.0,,0.0,No aplica
+74331,Hombre,33,30-35 años,Obesidad,38.5,123.4,6.0,2.0,"cintura, presión",No,No,0.0,,0.0,No aplica
+74381,Mujer,25,25-29 años,Normal,23.7,82.1,3.9,0.0,ninguno,No,No,0.0,,0.0,No aplica
+74384,Mujer,25,25-29 años,Obesidad,33.5,104.5,5.0,2.0,"cintura, HDL bajo",No,No,0.0,,0.0,No aplica
+74386,Hombre,24,18-24 años,Sobrepeso,25.9,79.5,6.2,0.0,ninguno,No,No,0.0,,0.0,No aplica
+74393,Hombre,26,25-29 años,Sobrepeso,25.0,87.6,3.7,0.0,ninguno,No,No,0.0,,0.0,No aplica
+74396,Mujer,29,25-29 años,Normal,20.9,70.8,4.0,0.0,ninguno,No,No,0.0,,0.0,No aplica
+74400,Hombre,23,18-24 años,Sobrepeso,25.1,80.5,4.9,0.0,ninguno,No,No,0.0,,0.0,No aplica
+74401,Mujer,19,18-24 años,Sobrepeso,25.2,85.6,4.3,1.0,HDL bajo,No,No,0.0,,0.0,No aplica
+74403,Mujer,31,30-35 años,Obesidad,30.7,96.5,5.0,1.0,cintura,No,No,0.0,,0.0,No aplica
+74408,Hombre,29,25-29 años,Obesidad,33.7,109.3,6.1,2.0,"cintura, HDL bajo",No,No,0.0,,0.0,No aplica
+74418,Mujer,23,18-24 años,Sobrepeso,27.1,88.6,3.7,3.0,"cintura, triglicéridos, HDL bajo",Sí,No,1.0,1.0,0.0,"No, sin diagnóstico previo"
+74424,Mujer,35,30-35 años,Sobrepeso,28.3,90.7,4.6,2.0,"cintura, triglicéridos",No,No,0.0,,0.0,No aplica
+74433,Hombre,22,18-24 años,Sobrepeso,27.6,96.9,6.8,1.0,presión,No,No,0.0,,0.0,No aplica
+74435,Hombre,19,18-24 años,Normal,19.3,66.8,5.7,0.0,ninguno,No,No,0.0,,0.0,No aplica
+74440,Mujer,31,30-35 años,Sobrepeso,28.0,92.7,4.5,1.0,cintura,No,No,0.0,,0.0,No aplica
+74460,Mujer,20,18-24 años,Normal,21.1,78.0,4.2,0.0,ninguno,No,No,0.0,,0.0,No aplica
+74480,Mujer,18,18-24 años,Normal,18.6,75.8,3.2,1.0,glucosa,No,No,0.0,,0.0,No aplica
+74481,Mujer,35,30-35 años,Obesidad,38.6,110.4,5.2,4.0,"cintura, triglicéridos, HDL bajo, presión",Sí,No,1.0,0.0,0.0,"Sí, tenía algún diagnóstico"
+74498,Hombre,29,25-29 años,Obesidad,33.2,114.8,5.5,2.0,"cintura, triglicéridos",No,No,0.0,,0.0,No aplica
+74505,Mujer,21,18-24 años,Obesidad,31.1,92.7,3.5,2.0,"cintura, triglicéridos",No,No,0.0,,0.0,No aplica
+74521,Mujer,21,18-24 años,Obesidad,44.1,127.4,6.4,2.0,"cintura, HDL bajo",No,Sí,0.0,,1.0,No aplica
+74532,Hombre,25,25-29 años,Sobrepeso,27.1,94.3,6.6,2.0,"HDL bajo, presión",No,No,0.0,,0.0,No aplica
+74537,Mujer,23,18-24 años,Obesidad,31.5,104.1,2.4,3.0,"cintura, HDL bajo, presión",Sí,No,1.0,1.0,0.0,"No, sin diagnóstico previo"
+74546,Mujer,27,25-29 años,Obesidad,37.3,120.5,5.6,3.0,"cintura, triglicéridos, HDL bajo",Sí,No,1.0,1.0,0.0,"No, sin diagnóstico previo"
+74554,Mujer,35,30-35 años,Obesidad,36.8,124.0,4.8,2.0,"cintura, HDL bajo",No,No,0.0,,0.0,No aplica
+74556,Mujer,23,18-24 años,Obesidad,34.0,111.0,4.5,2.0,"cintura, HDL bajo",No,No,0.0,,0.0,No aplica
+74557,Mujer,28,25-29 años,Sobrepeso,26.7,84.5,4.2,0.0,ninguno,No,No,0.0,,0.0,No aplica
+74559,Mujer,19,18-24 años,Normal,23.4,81.2,2.8,0.0,ninguno,No,No,0.0,,0.0,No aplica
+74569,Hombre,19,18-24 años,Sin dato,,,6.3,,ninguno,No evaluable,No,,,0.0,No aplica
+74582,Mujer,30,30-35 años,Sobrepeso,27.5,92.5,3.6,,"cintura, HDL bajo",No evaluable,No,,,0.0,No aplica
+74601,Mujer,20,18-24 años,Normal,18.7,61.3,3.3,0.0,ninguno,No,No,0.0,,0.0,No aplica
+74613,Mujer,35,30-35 años,Sobrepeso,27.6,93.8,3.7,3.0,"cintura, HDL bajo, presión",Sí,No,1.0,0.0,0.0,"Sí, tenía algún diagnóstico"
+74627,Mujer,29,25-29 años,Obesidad,38.8,125.7,5.4,2.0,"cintura, triglicéridos",No,No,0.0,,0.0,No aplica
+74630,Hombre,18,18-24 años,Sobrepeso,29.3,89.7,7.7,3.0,"triglicéridos, presión, glucosa",Sí,Sí,1.0,1.0,1.0,"No, sin diagnóstico previo"
+74631,Hombre,30,30-35 años,Sobrepeso,25.9,90.3,6.2,1.0,triglicéridos,No,No,0.0,,0.0,No aplica
+74638,Hombre,34,30-35 años,Sobrepeso,26.4,93.3,4.3,2.0,"triglicéridos, HDL bajo",No,No,0.0,,0.0,No aplica
+74644,Mujer,20,18-24 años,Normal,23.9,82.0,3.8,0.0,ninguno,No,No,0.0,,0.0,No aplica
+74673,Mujer,21,18-24 años,Normal,22.2,75.2,4.2,0.0,ninguno,No,No,0.0,,0.0,No aplica
+74678,Mujer,28,25-29 años,Normal,22.6,77.0,4.6,2.0,"triglicéridos, HDL bajo",No,No,0.0,,0.0,No aplica
+74680,Hombre,20,18-24 años,Normal,19.9,72.8,6.0,0.0,ninguno,No,No,0.0,,0.0,No aplica
+74686,Mujer,32,30-35 años,Obesidad,34.0,100.6,4.3,3.0,"cintura, triglicéridos, HDL bajo",Sí,No,1.0,1.0,0.0,"No, sin diagnóstico previo"
+74698,Hombre,34,30-35 años,Normal,21.9,88.5,6.1,0.0,ninguno,No,No,0.0,,0.0,No aplica
+74703,Hombre,32,30-35 años,Obesidad,35.7,106.9,6.2,1.0,cintura,No,No,0.0,,0.0,No aplica
+74744,Hombre,22,18-24 años,Obesidad,34.6,111.5,5.7,2.0,"cintura, HDL bajo",No,No,0.0,,0.0,No aplica
+74763,Hombre,33,30-35 años,Sobrepeso,26.8,96.0,5.5,0.0,ninguno,No,No,0.0,,0.0,No aplica
+74774,Mujer,19,18-24 años,Normal,19.0,,4.4,,"triglicéridos, glucosa",No evaluable,No,,,0.0,No aplica
+74776,Hombre,18,18-24 años,Sobrepeso,28.9,95.3,4.8,2.0,"triglicéridos, HDL bajo",No,No,0.0,,0.0,No aplica
+74800,Hombre,28,25-29 años,Normal,20.9,73.3,4.1,1.0,triglicéridos,No,No,0.0,,0.0,No aplica
+74802,Hombre,18,18-24 años,Normal,24.5,88.5,9.4,0.0,ninguno,No,Sí,0.0,,1.0,No aplica
+74818,Hombre,26,25-29 años,Sobrepeso,29.9,99.9,7.1,0.0,ninguno,No,Sí,0.0,,1.0,No aplica
+74824,Mujer,28,25-29 años,Normal,23.4,84.1,5.3,0.0,ninguno,No,No,0.0,,0.0,No aplica
+74829,Mujer,27,25-29 años,Obesidad,34.2,123.1,2.9,2.0,"cintura, triglicéridos",No,No,0.0,,0.0,No aplica
+74832,Hombre,21,18-24 años,Normal,23.6,91.6,5.9,1.0,presión,No,No,0.0,,0.0,No aplica
+74845,Mujer,31,30-35 años,Normal,21.5,90.0,4.7,1.0,cintura,No,No,0.0,,0.0,No aplica
+74882,Hombre,25,25-29 años,Sobrepeso,27.0,96.5,5.3,1.0,triglicéridos,No,No,0.0,,0.0,No aplica
+74883,Mujer,24,18-24 años,Obesidad,38.9,120.0,4.7,3.0,"cintura, HDL bajo, glucosa",Sí,No,1.0,0.0,0.0,"Sí, tenía algún diagnóstico"
+74886,Mujer,18,18-24 años,Sobrepeso,28.9,90.6,3.5,1.0,cintura,No,No,0.0,,0.0,No aplica
+74910,Mujer,19,18-24 años,Obesidad,68.6,163.3,6.2,2.0,"cintura, HDL bajo",No,Sí,0.0,,1.0,No aplica
+74932,Hombre,32,30-35 años,Sobrepeso,27.1,93.9,5.6,2.0,"triglicéridos, HDL bajo",No,No,0.0,,0.0,No aplica
+74965,Hombre,26,25-29 años,Obesidad,54.0,158.2,9.3,4.0,"cintura, triglicéridos, presión, glucosa",Sí,Sí,1.0,0.0,1.0,"Sí, tenía algún diagnóstico"
+74969,Hombre,22,18-24 años,Sobrepeso,25.4,85.2,4.2,0.0,ninguno,No,No,0.0,,0.0,No aplica
+74981,Hombre,33,30-35 años,Obesidad,34.8,110.8,5.6,1.0,cintura,No,No,0.0,,0.0,No aplica
+75023,Hombre,27,25-29 años,Sobrepeso,26.1,90.2,6.1,0.0,ninguno,No,No,0.0,,0.0,No aplica
+75029,Hombre,23,18-24 años,Normal,22.5,79.5,4.7,0.0,ninguno,No,No,0.0,,0.0,No aplica
+75034,Mujer,19,18-24 años,Normal,17.1,68.9,2.5,0.0,ninguno,No,No,0.0,,0.0,No aplica
+75060,Hombre,32,30-35 años,Obesidad,38.2,115.6,6.5,3.0,"cintura, presión, glucosa",Sí,No,1.0,1.0,0.0,"No, sin diagnóstico previo"
+75063,Hombre,34,30-35 años,Normal,24.2,83.9,5.7,1.0,triglicéridos,No,No,0.0,,0.0,No aplica
+75071,Hombre,33,30-35 años,Obesidad,35.4,110.0,9.0,4.0,"cintura, triglicéridos, HDL bajo, presión",Sí,Sí,1.0,1.0,1.0,"No, sin diagnóstico previo"
+75085,Hombre,26,25-29 años,Normal,21.2,78.5,3.9,0.0,ninguno,No,No,0.0,,0.0,No aplica
+75104,Mujer,26,25-29 años,Normal,23.8,83.7,4.0,1.0,triglicéridos,No,No,0.0,,0.0,No aplica
+75111,Hombre,32,30-35 años,Normal,24.2,91.3,5.6,0.0,ninguno,No,No,0.0,,0.0,No aplica
+75123,Hombre,35,30-35 años,Obesidad,37.2,120.8,5.9,2.0,"cintura, presión",No,No,0.0,,0.0,No aplica
+75125,Mujer,32,30-35 años,Obesidad,36.5,111.5,5.0,4.0,"cintura, triglicéridos, HDL bajo, presión",Sí,No,1.0,0.0,0.0,"Sí, tenía algún diagnóstico"
+75131,Mujer,34,30-35 años,Sobrepeso,25.4,91.0,3.4,2.0,"cintura, triglicéridos",No,No,0.0,,0.0,No aplica
+75134,Mujer,33,30-35 años,Sobrepeso,26.3,97.7,4.2,1.0,cintura,No,No,0.0,,0.0,No aplica
+75137,Mujer,30,30-35 años,Sobrepeso,25.1,90.2,3.7,1.0,cintura,No,No,0.0,,0.0,No aplica
+75155,Mujer,34,30-35 años,Sobrepeso,25.7,89.6,4.3,4.0,"cintura, triglicéridos, HDL bajo, glucosa",Sí,No,1.0,0.0,0.0,"Sí, tenía algún diagnóstico"
+75175,Hombre,34,30-35 años,Normal,23.6,82.5,6.3,0.0,ninguno,No,No,0.0,,0.0,No aplica
+75178,Mujer,19,18-24 años,Sobrepeso,27.4,85.5,4.1,0.0,ninguno,No,No,0.0,,0.0,No aplica
+75188,Mujer,35,30-35 años,Obesidad,33.7,102.6,3.9,2.0,"cintura, HDL bajo",No,No,0.0,,0.0,No aplica
+75209,Mujer,18,18-24 años,Normal,23.8,80.0,3.1,1.0,triglicéridos,No,No,0.0,,0.0,No aplica
+75224,Mujer,27,25-29 años,Obesidad,30.0,97.5,3.8,1.0,cintura,No,No,0.0,,0.0,No aplica
+75227,Mujer,18,18-24 años,Normal,21.3,74.5,7.2,1.0,HDL bajo,No,Sí,0.0,,1.0,No aplica
+75236,Mujer,29,25-29 años,Normal,23.9,93.0,3.5,1.0,cintura,No,No,0.0,,0.0,No aplica
+75249,Mujer,23,18-24 años,Normal,22.8,78.3,2.7,0.0,ninguno,No,No,0.0,,0.0,No aplica
+75254,Hombre,26,25-29 años,Sobrepeso,27.0,88.2,5.5,1.0,triglicéridos,No,No,0.0,,0.0,No aplica
+75260,Mujer,20,18-24 años,Sobrepeso,28.5,98.8,4.1,1.0,cintura,No,No,0.0,,0.0,No aplica
+75268,Hombre,28,25-29 años,Normal,24.6,,5.6,,"triglicéridos, presión",No evaluable,No,,,0.0,No aplica
+75269,Hombre,29,25-29 años,Normal,22.5,71.5,4.5,0.0,ninguno,No,No,0.0,,0.0,No aplica
+75278,Hombre,22,18-24 años,Normal,20.7,75.5,6.7,0.0,ninguno,No,No,0.0,,0.0,No aplica
+75283,Mujer,29,25-29 años,Sobrepeso,25.1,81.6,4.2,0.0,ninguno,No,No,0.0,,0.0,No aplica
+75288,Hombre,19,18-24 años,Obesidad,38.4,129.0,7.7,,"cintura, HDL bajo, glucosa",No evaluable,Sí,,,1.0,No aplica
+75291,Mujer,24,18-24 años,Sobrepeso,26.9,103.6,4.2,3.0,"cintura, triglicéridos, HDL bajo",Sí,No,1.0,1.0,0.0,"No, sin diagnóstico previo"
+75307,Hombre,26,25-29 años,Obesidad,36.0,115.1,5.8,4.0,"cintura, triglicéridos, HDL bajo, glucosa",Sí,No,1.0,1.0,0.0,"No, sin diagnóstico previo"
+75321,Hombre,25,25-29 años,Sobrepeso,29.0,107.5,7.4,3.0,"cintura, triglicéridos, HDL bajo",Sí,Sí,1.0,0.0,1.0,"Sí, tenía algún diagnóstico"
+75327,Hombre,34,30-35 años,Obesidad,30.4,103.9,7.9,2.0,"cintura, glucosa",No,Sí,0.0,,1.0,No aplica
+75328,Hombre,24,18-24 años,Normal,21.3,75.7,6.4,1.0,glucosa,No,No,0.0,,0.0,No aplica
+75331,Hombre,32,30-35 años,Sobrepeso,27.4,93.5,5.3,0.0,ninguno,No,No,0.0,,0.0,No aplica
+75332,Mujer,28,25-29 años,Obesidad,43.6,123.1,6.1,3.0,"cintura, HDL bajo, glucosa",Sí,Sí,1.0,0.0,1.0,"Sí, tenía algún diagnóstico"
+75339,Hombre,34,30-35 años,Obesidad,37.0,119.0,7.6,2.0,"cintura, glucosa",No,Sí,0.0,,1.0,No aplica
+75351,Mujer,29,25-29 años,Normal,21.5,80.3,3.9,0.0,ninguno,No,No,0.0,,0.0,No aplica
+75352,Hombre,30,30-35 años,Sobrepeso,27.9,90.7,5.0,2.0,"triglicéridos, HDL bajo",No,No,0.0,,0.0,No aplica
+75370,Hombre,25,25-29 años,Normal,21.6,83.8,6.9,0.0,ninguno,No,No,0.0,,0.0,No aplica
+75391,Mujer,31,30-35 años,Obesidad,34.3,111.2,5.6,3.0,"cintura, triglicéridos, HDL bajo",Sí,No,1.0,1.0,0.0,"No, sin diagnóstico previo"
+75393,Mujer,30,30-35 años,Obesidad,31.8,110.8,3.3,2.0,"cintura, glucosa",No,No,0.0,,0.0,No aplica
+75403,Mujer,27,25-29 años,Obesidad,45.7,144.7,5.8,2.0,"cintura, HDL bajo",No,Sí,0.0,,1.0,No aplica
+75407,Mujer,23,18-24 años,Normal,21.2,78.3,3.9,0.0,ninguno,No,No,0.0,,0.0,No aplica
+75415,Mujer,24,18-24 años,Sobrepeso,28.6,89.0,4.4,1.0,cintura,No,No,0.0,,0.0,No aplica
+75419,Mujer,28,25-29 años,Sobrepeso,26.0,88.1,3.2,1.0,cintura,No,No,0.0,,0.0,No aplica
+75425,Mujer,34,30-35 años,Sobrepeso,29.8,96.7,5.1,1.0,cintura,No,No,0.0,,0.0,No aplica
+75434,Mujer,31,30-35 años,Obesidad,30.6,108.5,3.6,1.0,cintura,No,No,0.0,,0.0,No aplica
+75445,Hombre,21,18-24 años,Obesidad,33.1,111.0,8.5,2.0,"cintura, HDL bajo",No,Sí,0.0,,1.0,No aplica
+75446,Hombre,23,18-24 años,Normal,23.4,92.0,5.3,0.0,ninguno,No,No,0.0,,0.0,No aplica
+75447,Mujer,33,30-35 años,Sobrepeso,25.4,83.4,5.1,0.0,ninguno,No,No,0.0,,0.0,No aplica
+75457,Hombre,27,25-29 años,Normal,20.4,80.5,4.7,1.0,triglicéridos,No,No,0.0,,0.0,No aplica
+75476,Mujer,25,25-29 años,Normal,20.9,73.9,4.2,0.0,ninguno,No,No,0.0,,0.0,No aplica
+75490,Hombre,28,25-29 años,Sobrepeso,25.8,91.5,6.5,0.0,ninguno,No,No,0.0,,0.0,No aplica
+75492,Hombre,27,25-29 años,Sobrepeso,29.3,101.0,4.9,1.0,glucosa,No,No,0.0,,0.0,No aplica
+75504,Mujer,33,30-35 años,Obesidad,31.4,105.3,5.6,3.0,"cintura, triglicéridos, HDL bajo",Sí,No,1.0,0.0,0.0,"Sí, tenía algún diagnóstico"
+75507,Mujer,21,18-24 años,Sobrepeso,25.0,79.7,5.3,0.0,ninguno,No,No,0.0,,0.0,No aplica
+75534,Mujer,20,18-24 años,Obesidad,33.5,94.5,4.0,1.0,cintura,No,No,0.0,,0.0,No aplica
+75544,Hombre,26,25-29 años,Sobrepeso,25.4,86.7,5.8,0.0,ninguno,No,No,0.0,,0.0,No aplica
+75550,Mujer,21,18-24 años,Normal,22.6,86.7,5.7,0.0,ninguno,No,No,0.0,,0.0,No aplica
+75556,Hombre,22,18-24 años,Sobrepeso,26.9,89.5,5.7,1.0,triglicéridos,No,No,0.0,,0.0,No aplica
+75566,Hombre,28,25-29 años,Normal,22.3,85.7,6.0,0.0,ninguno,No,No,0.0,,0.0,No aplica
+75567,Mujer,29,25-29 años,Normal,21.5,82.5,2.6,2.0,"triglicéridos, HDL bajo",No,No,0.0,,0.0,No aplica
+75588,Hombre,32,30-35 años,Obesidad,33.3,113.3,5.9,1.0,cintura,No,No,0.0,,0.0,No aplica
+75593,Mujer,34,30-35 años,Obesidad,43.6,,3.4,,"triglicéridos, HDL bajo, presión",No evaluable,No,,,0.0,No aplica
+75594,Mujer,26,25-29 años,Normal,22.0,77.9,4.2,0.0,ninguno,No,No,0.0,,0.0,No aplica
+75595,Hombre,21,18-24 años,Sobrepeso,26.6,90.4,7.8,1.0,triglicéridos,No,Sí,0.0,,1.0,No aplica
+75596,Hombre,35,30-35 años,Obesidad,31.2,114.7,6.5,3.0,"cintura, HDL bajo, presión",Sí,No,1.0,0.0,0.0,"Sí, tenía algún diagnóstico"
+75616,Hombre,30,30-35 años,Obesidad,31.8,118.5,5.1,3.0,"cintura, presión, glucosa",Sí,No,1.0,0.0,0.0,"Sí, tenía algún diagnóstico"
+75647,Hombre,28,25-29 años,Normal,21.3,82.4,5.1,0.0,ninguno,No,No,0.0,,0.0,No aplica
+75648,Mujer,18,18-24 años,Normal,22.8,81.7,4.3,2.0,"triglicéridos, HDL bajo",No,No,0.0,,0.0,No aplica
+75664,Mujer,31,30-35 años,Obesidad,33.8,99.6,4.2,3.0,"cintura, HDL bajo, presión",Sí,No,1.0,0.0,0.0,"Sí, tenía algún diagnóstico"
+75670,Mujer,27,25-29 años,Sobrepeso,29.2,90.5,4.3,2.0,"cintura, HDL bajo",No,No,0.0,,0.0,No aplica
+75682,Hombre,29,25-29 años,Obesidad,31.6,100.2,7.5,2.0,"HDL bajo, glucosa",No,Sí,0.0,,1.0,No aplica
+75683,Hombre,23,18-24 años,Normal,20.4,82.5,5.5,0.0,ninguno,No,No,0.0,,0.0,No aplica
+75684,Mujer,33,30-35 años,Sobrepeso,28.0,97.8,6.1,2.0,"cintura, triglicéridos",No,Sí,0.0,,1.0,No aplica
+75690,Hombre,34,30-35 años,Normal,22.5,76.7,5.7,2.0,"presión, glucosa",No,No,0.0,,0.0,No aplica
+75692,Hombre,18,18-24 años,Obesidad,39.5,120.6,8.4,2.0,"cintura, triglicéridos",No,Sí,0.0,,1.0,No aplica
+75698,Hombre,22,18-24 años,Obesidad,34.8,111.8,4.7,3.0,"cintura, presión, glucosa",Sí,No,1.0,0.0,0.0,"Sí, tenía algún diagnóstico"
+75704,Hombre,24,18-24 años,Normal,21.0,79.0,4.9,1.0,triglicéridos,No,No,0.0,,0.0,No aplica
+75709,Mujer,30,30-35 años,Normal,21.7,80.4,4.0,0.0,ninguno,No,No,0.0,,0.0,No aplica
+75721,Hombre,32,30-35 años,Obesidad,32.6,100.2,3.4,3.0,"triglicéridos, HDL bajo, glucosa",Sí,No,1.0,0.0,0.0,"Sí, tenía algún diagnóstico"
+75737,Mujer,20,18-24 años,Normal,22.4,79.4,3.3,1.0,HDL bajo,No,No,0.0,,0.0,No aplica
+75753,Hombre,19,18-24 años,Normal,19.6,72.9,4.9,0.0,ninguno,No,No,0.0,,0.0,No aplica
+75763,Hombre,32,30-35 años,Sobrepeso,29.3,99.8,6.9,2.0,"triglicéridos, HDL bajo",No,No,0.0,,0.0,No aplica
+75773,Mujer,19,18-24 años,Normal,19.3,77.9,5.8,1.0,HDL bajo,No,Sí,0.0,,1.0,No aplica
+75776,Mujer,21,18-24 años,Sobrepeso,29.8,111.9,4.0,2.0,"cintura, triglicéridos",No,No,0.0,,0.0,No aplica
+75779,Hombre,29,25-29 años,Obesidad,56.4,153.9,8.5,2.0,"cintura, HDL bajo",No,Sí,0.0,,1.0,No aplica
+75785,Mujer,22,18-24 años,Obesidad,32.0,87.5,5.5,0.0,ninguno,No,No,0.0,,0.0,No aplica
+75799,Mujer,22,18-24 años,Sobrepeso,28.1,98.0,4.2,3.0,"cintura, triglicéridos, HDL bajo",Sí,No,1.0,0.0,0.0,"Sí, tenía algún diagnóstico"
+75822,Mujer,34,30-35 años,Normal,19.3,77.7,4.4,0.0,ninguno,No,No,0.0,,0.0,No aplica
+75831,Mujer,34,30-35 años,Sobrepeso,29.4,101.8,4.4,2.0,"cintura, glucosa",No,No,0.0,,0.0,No aplica
+75835,Hombre,31,30-35 años,Sobrepeso,25.5,92.2,4.5,0.0,ninguno,No,No,0.0,,0.0,No aplica
+75842,Hombre,23,18-24 años,Sobrepeso,26.9,94.6,7.0,2.0,"triglicéridos, glucosa",No,No,0.0,,0.0,No aplica
+75854,Hombre,18,18-24 años,Normal,23.0,82.5,5.3,0.0,ninguno,No,No,0.0,,0.0,No aplica
+75855,Mujer,34,30-35 años,Sobrepeso,27.4,97.7,6.4,2.0,"cintura, glucosa",No,Sí,0.0,,1.0,No aplica
+75858,Mujer,20,18-24 años,Obesidad,31.1,107.7,3.7,1.0,cintura,No,No,0.0,,0.0,No aplica
+75872,Mujer,21,18-24 años,Sobrepeso,26.8,84.6,3.1,0.0,ninguno,No,No,0.0,,0.0,No aplica
+75898,Hombre,24,18-24 años,Sobrepeso,27.6,102.6,7.8,3.0,"cintura, triglicéridos, presión",Sí,Sí,1.0,0.0,1.0,"Sí, tenía algún diagnóstico"
+75899,Mujer,31,30-35 años,Obesidad,44.6,124.7,4.5,2.0,"cintura, HDL bajo",No,No,0.0,,0.0,No aplica
+75900,Hombre,21,18-24 años,Normal,24.2,78.8,5.1,0.0,ninguno,No,No,0.0,,0.0,No aplica
+75901,Mujer,19,18-24 años,Normal,18.9,75.0,2.9,1.0,HDL bajo,No,No,0.0,,0.0,No aplica
+75903,Hombre,28,25-29 años,Normal,20.4,77.9,4.1,1.0,glucosa,No,No,0.0,,0.0,No aplica
+75908,Mujer,24,18-24 años,Obesidad,39.4,112.3,5.5,2.0,"cintura, HDL bajo",No,No,0.0,,0.0,No aplica
+75910,Hombre,30,30-35 años,Sobrepeso,27.1,100.5,7.2,2.0,"triglicéridos, HDL bajo",No,Sí,0.0,,1.0,No aplica
+75919,Mujer,23,18-24 años,Obesidad,32.4,112.7,3.5,2.0,"cintura, triglicéridos",No,No,0.0,,0.0,No aplica
+75924,Hombre,30,30-35 años,Normal,14.1,55.5,4.8,0.0,ninguno,No,No,0.0,,0.0,No aplica
+75927,Hombre,30,30-35 años,Normal,20.6,73.8,4.3,0.0,ninguno,No,No,0.0,,0.0,No aplica
+75928,Mujer,31,30-35 años,Obesidad,31.9,107.8,5.8,4.0,"cintura, HDL bajo, presión, glucosa",Sí,Sí,1.0,0.0,1.0,"Sí, tenía algún diagnóstico"
+75931,Hombre,18,18-24 años,Normal,20.9,77.2,7.6,0.0,ninguno,No,Sí,0.0,,1.0,No aplica
+75936,Mujer,35,30-35 años,Normal,23.6,87.8,2.9,0.0,ninguno,No,No,0.0,,0.0,No aplica
+75938,Mujer,33,30-35 años,Obesidad,50.0,,5.3,,"triglicéridos, HDL bajo, presión, glucosa",No evaluable,No,,,0.0,No aplica
+75951,Mujer,32,30-35 años,Sobrepeso,25.1,88.2,4.5,1.0,cintura,No,No,0.0,,0.0,No aplica
+75957,Hombre,21,18-24 años,Normal,21.5,75.4,5.6,1.0,presión,No,No,0.0,,0.0,No aplica
+75988,Hombre,18,18-24 años,Normal,21.2,71.5,4.8,0.0,ninguno,No,No,0.0,,0.0,No aplica
+75989,Hombre,32,30-35 años,Normal,21.0,72.9,6.4,1.0,triglicéridos,No,No,0.0,,0.0,No aplica
+75992,Mujer,34,30-35 años,Sobrepeso,28.5,91.0,4.5,1.0,cintura,No,No,0.0,,0.0,No aplica
+75997,Mujer,20,18-24 años,Normal,17.1,62.8,3.0,1.0,HDL bajo,No,No,0.0,,0.0,No aplica
+76006,Mujer,32,30-35 años,Sobrepeso,28.2,92.6,4.2,1.0,cintura,No,No,0.0,,0.0,No aplica
+76008,Mujer,31,30-35 años,Sobrepeso,27.6,88.0,4.0,3.0,"cintura, triglicéridos, presión",Sí,No,1.0,0.0,0.0,"Sí, tenía algún diagnóstico"
+76015,Mujer,30,30-35 años,Sobrepeso,29.9,93.6,5.3,1.0,cintura,No,No,0.0,,0.0,No aplica
+76018,Hombre,31,30-35 años,Obesidad,36.7,119.4,6.1,3.0,"cintura, triglicéridos, HDL bajo",Sí,No,1.0,1.0,0.0,"No, sin diagnóstico previo"
+76019,Hombre,29,25-29 años,Normal,17.3,79.0,5.5,2.0,"HDL bajo, glucosa",No,No,0.0,,0.0,No aplica
+76030,Hombre,32,30-35 años,Normal,24.2,80.4,4.9,1.0,glucosa,No,No,0.0,,0.0,No aplica
+76032,Hombre,18,18-24 años,Normal,23.7,92.7,6.1,2.0,"triglicéridos, HDL bajo",No,No,0.0,,0.0,No aplica
+76034,Mujer,20,18-24 años,Obesidad,43.7,,6.2,,"HDL bajo, glucosa",No evaluable,Sí,,,1.0,No aplica
+76039,Mujer,26,25-29 años,Obesidad,36.0,118.2,3.7,3.0,"cintura, triglicéridos, HDL bajo",Sí,No,1.0,0.0,0.0,"Sí, tenía algún diagnóstico"
+76042,Mujer,27,25-29 años,Obesidad,36.1,119.0,4.0,3.0,"cintura, triglicéridos, HDL bajo",Sí,No,1.0,1.0,0.0,"No, sin diagnóstico previo"
+76054,Mujer,22,18-24 años,Normal,19.2,72.7,4.0,0.0,ninguno,No,No,0.0,,0.0,No aplica
+76057,Hombre,18,18-24 años,Normal,19.5,73.6,4.8,0.0,ninguno,No,No,0.0,,0.0,No aplica
+76062,Hombre,30,30-35 años,Obesidad,38.7,120.5,6.9,4.0,"cintura, triglicéridos, HDL bajo, presión",Sí,No,1.0,0.0,0.0,"Sí, tenía algún diagnóstico"
+76067,Hombre,26,25-29 años,Normal,22.8,82.2,5.4,2.0,"HDL bajo, glucosa",No,No,0.0,,0.0,No aplica
+76071,Hombre,34,30-35 años,Normal,23.5,88.4,4.8,1.0,HDL bajo,No,No,0.0,,0.0,No aplica
+76073,Hombre,21,18-24 años,Normal,20.2,74.4,5.2,1.0,glucosa,No,No,0.0,,0.0,No aplica
+76075,Hombre,35,30-35 años,Obesidad,35.4,117.0,4.3,2.0,"cintura, HDL bajo",No,No,0.0,,0.0,No aplica
+76081,Hombre,35,30-35 años,Sobrepeso,27.1,95.7,7.6,1.0,triglicéridos,No,Sí,0.0,,1.0,No aplica
+76094,Hombre,18,18-24 años,Normal,22.8,75.5,6.3,0.0,ninguno,No,No,0.0,,0.0,No aplica
+76101,Mujer,20,18-24 años,Obesidad,36.1,94.6,7.1,2.0,"cintura, HDL bajo",No,Sí,0.0,,1.0,No aplica
+76110,Hombre,22,18-24 años,Normal,17.0,76.6,6.0,3.0,"triglicéridos, HDL bajo, glucosa",Sí,No,1.0,0.0,0.0,"Sí, tenía algún diagnóstico"
+76126,Mujer,27,25-29 años,Obesidad,47.2,132.0,5.6,5.0,"cintura, triglicéridos, HDL bajo, presión, glucosa",Sí,No,1.0,0.0,0.0,"Sí, tenía algún diagnóstico"
+76140,Mujer,27,25-29 años,Obesidad,40.5,112.0,5.6,3.0,"cintura, triglicéridos, HDL bajo",Sí,No,1.0,1.0,0.0,"No, sin diagnóstico previo"
+76146,Mujer,23,18-24 años,Normal,17.1,66.1,3.4,1.0,HDL bajo,No,No,0.0,,0.0,No aplica
+76160,Mujer,25,25-29 años,Normal,22.7,82.3,2.3,1.0,triglicéridos,No,No,0.0,,0.0,No aplica
+76161,Hombre,34,30-35 años,Obesidad,40.1,131.9,7.6,3.0,"cintura, triglicéridos, HDL bajo",Sí,Sí,1.0,0.0,1.0,"Sí, tenía algún diagnóstico"
+76173,Hombre,19,18-24 años,Obesidad,36.0,110.0,8.3,2.0,"cintura, HDL bajo",No,Sí,0.0,,1.0,No aplica
+76191,Mujer,18,18-24 años,Normal,24.0,85.2,3.9,2.0,"triglicéridos, HDL bajo",No,No,0.0,,0.0,No aplica
+76195,Hombre,18,18-24 años,Normal,20.2,75.5,9.0,0.0,ninguno,No,Sí,0.0,,1.0,No aplica
+76212,Mujer,34,30-35 años,Sobrepeso,25.0,84.1,4.4,0.0,ninguno,No,No,0.0,,0.0,No aplica
+76214,Mujer,18,18-24 años,Normal,21.1,76.6,5.3,0.0,ninguno,No,No,0.0,,0.0,No aplica
+76231,Hombre,25,25-29 años,Sobrepeso,29.7,99.0,7.0,0.0,ninguno,No,No,0.0,,0.0,No aplica
+76232,Hombre,29,25-29 años,Sobrepeso,25.8,86.7,7.7,2.0,"triglicéridos, HDL bajo",No,Sí,0.0,,1.0,No aplica
+76242,Mujer,19,18-24 años,Normal,19.9,75.2,2.7,0.0,ninguno,No,No,0.0,,0.0,No aplica
+76253,Mujer,27,25-29 años,Normal,18.6,67.7,3.5,1.0,glucosa,No,No,0.0,,0.0,No aplica
+76261,Hombre,20,18-24 años,Normal,22.7,77.4,5.6,0.0,ninguno,No,No,0.0,,0.0,No aplica
+76270,Mujer,24,18-24 años,Normal,22.6,76.3,2.5,0.0,ninguno,No,No,0.0,,0.0,No aplica
+76288,Mujer,30,30-35 años,Normal,18.6,76.9,4.7,1.0,HDL bajo,No,No,0.0,,0.0,No aplica
+76289,Mujer,24,18-24 años,Normal,24.4,77.2,3.7,0.0,ninguno,No,No,0.0,,0.0,No aplica
+76304,Mujer,18,18-24 años,Normal,17.7,63.5,3.6,0.0,ninguno,No,No,0.0,,0.0,No aplica
+76305,Hombre,18,18-24 años,Normal,20.3,70.8,5.2,1.0,HDL bajo,No,No,0.0,,0.0,No aplica
+76326,Hombre,32,30-35 años,Obesidad,31.5,100.9,4.9,1.0,HDL bajo,No,No,0.0,,0.0,No aplica
+76347,Mujer,32,30-35 años,Obesidad,41.6,130.4,7.9,2.0,"cintura, HDL bajo",No,Sí,0.0,,1.0,No aplica
+76369,Hombre,31,30-35 años,Normal,23.7,88.6,6.4,1.0,triglicéridos,No,No,0.0,,0.0,No aplica
+76375,Mujer,30,30-35 años,Obesidad,30.5,100.2,4.3,2.0,"cintura, HDL bajo",No,No,0.0,,0.0,No aplica
+76381,Mujer,21,18-24 años,Sin dato,,,5.5,,HDL bajo,No evaluable,No,,,0.0,No aplica
+76383,Hombre,23,18-24 años,Obesidad,40.3,119.3,5.6,4.0,"cintura, triglicéridos, HDL bajo, presión",Sí,No,1.0,1.0,0.0,"No, sin diagnóstico previo"
+76387,Mujer,25,25-29 años,Normal,21.9,80.6,3.2,0.0,ninguno,No,No,0.0,,0.0,No aplica
+76390,Hombre,23,18-24 años,Normal,18.8,74.8,4.8,1.0,glucosa,No,No,0.0,,0.0,No aplica
+76401,Mujer,18,18-24 años,Normal,21.2,77.1,4.7,2.0,"triglicéridos, HDL bajo",No,No,0.0,,0.0,No aplica
+76409,Mujer,20,18-24 años,Sobrepeso,28.6,89.9,5.1,3.0,"cintura, HDL bajo, glucosa",Sí,No,1.0,1.0,0.0,"No, sin diagnóstico previo"
+76412,Mujer,31,30-35 años,Sin dato,,,3.3,,ninguno,No evaluable,No,,,0.0,No aplica
+76415,Hombre,25,25-29 años,Normal,17.9,68.3,5.1,0.0,ninguno,No,No,0.0,,0.0,No aplica
+76439,Hombre,28,25-29 años,Obesidad,31.4,101.3,7.6,2.0,"triglicéridos, HDL bajo",No,Sí,0.0,,1.0,No aplica
+76451,Mujer,34,30-35 años,Sobrepeso,25.2,94.8,3.2,2.0,"cintura, glucosa",No,No,0.0,,0.0,No aplica
+76459,Hombre,33,30-35 años,Obesidad,35.8,124.5,6.7,3.0,"cintura, HDL bajo, glucosa",Sí,No,1.0,1.0,0.0,"No, sin diagnóstico previo"
+76464,Hombre,33,30-35 años,Sobrepeso,25.3,93.0,5.9,2.0,"triglicéridos, HDL bajo",No,No,0.0,,0.0,No aplica
+76480,Mujer,24,18-24 años,Obesidad,41.7,125.7,5.3,4.0,"cintura, triglicéridos, HDL bajo, presión",Sí,No,1.0,1.0,0.0,"No, sin diagnóstico previo"
+76486,Mujer,24,18-24 años,Sobrepeso,28.3,97.5,5.0,2.0,"cintura, HDL bajo",No,No,0.0,,0.0,No aplica
+76487,Mujer,23,18-24 años,Normal,19.1,71.2,3.7,0.0,ninguno,No,No,0.0,,0.0,No aplica
+76491,Mujer,23,18-24 años,Normal,22.7,93.5,4.6,2.0,"cintura, triglicéridos",No,No,0.0,,0.0,No aplica
+76494,Hombre,29,25-29 años,Normal,22.5,80.9,4.8,3.0,"triglicéridos, HDL bajo, glucosa",Sí,No,1.0,0.0,0.0,"Sí, tenía algún diagnóstico"
+76496,Mujer,23,18-24 años,Sobrepeso,27.3,91.4,3.7,2.0,"cintura, HDL bajo",No,No,0.0,,0.0,No aplica
+76509,Hombre,24,18-24 años,Normal,21.2,76.7,7.1,0.0,ninguno,No,Sí,0.0,,1.0,No aplica
+76523,Mujer,30,30-35 años,Obesidad,30.8,97.5,3.1,1.0,cintura,No,No,0.0,,0.0,No aplica
+76529,Mujer,18,18-24 años,Normal,19.8,70.4,6.7,0.0,ninguno,No,Sí,0.0,,1.0,No aplica
+76541,Hombre,26,25-29 años,Sobrepeso,27.4,91.3,4.5,2.0,"triglicéridos, HDL bajo",No,No,0.0,,0.0,No aplica
+76553,Hombre,22,18-24 años,Normal,21.3,78.1,5.8,2.0,"triglicéridos, HDL bajo",No,No,0.0,,0.0,No aplica
+76577,Mujer,23,18-24 años,Sobrepeso,26.1,87.7,4.2,3.0,"triglicéridos, HDL bajo, presión",Sí,No,1.0,1.0,0.0,"No, sin diagnóstico previo"
+76609,Mujer,21,18-24 años,Normal,19.5,71.8,3.4,0.0,ninguno,No,No,0.0,,0.0,No aplica
+76613,Hombre,32,30-35 años,Normal,23.2,85.1,5.1,1.0,HDL bajo,No,No,0.0,,0.0,No aplica
+76629,Hombre,25,25-29 años,Obesidad,35.6,107.2,6.6,2.0,"cintura, HDL bajo",No,No,0.0,,0.0,No aplica
+76636,Mujer,29,25-29 años,Normal,20.7,70.7,3.5,0.0,ninguno,No,No,0.0,,0.0,No aplica
+76656,Mujer,23,18-24 años,Obesidad,39.8,111.7,7.2,3.0,"cintura, triglicéridos, HDL bajo",Sí,Sí,1.0,0.0,1.0,"Sí, tenía algún diagnóstico"
+76677,Mujer,18,18-24 años,Normal,21.7,78.0,3.7,0.0,ninguno,No,No,0.0,,0.0,No aplica
+76686,Hombre,34,30-35 años,Sobrepeso,27.5,94.4,6.6,1.0,HDL bajo,No,No,0.0,,0.0,No aplica
+76697,Hombre,24,18-24 años,Normal,24.4,92.0,5.2,0.0,ninguno,No,No,0.0,,0.0,No aplica
+76708,Hombre,23,18-24 años,Sobrepeso,25.0,75.5,5.7,0.0,ninguno,No,No,0.0,,0.0,No aplica
+76732,Mujer,19,18-24 años,Sobrepeso,29.9,94.8,3.9,2.0,"cintura, HDL bajo",No,No,0.0,,0.0,No aplica
+76736,Mujer,30,30-35 años,Sobrepeso,26.1,97.2,2.7,3.0,"cintura, triglicéridos, HDL bajo",Sí,No,1.0,1.0,0.0,"No, sin diagnóstico previo"
+76737,Mujer,28,25-29 años,Normal,21.3,81.8,4.9,1.0,HDL bajo,No,No,0.0,,0.0,No aplica
+76767,Mujer,25,25-29 años,Obesidad,30.7,103.9,4.3,1.0,cintura,No,No,0.0,,0.0,No aplica
+76769,Mujer,19,18-24 años,Normal,16.9,65.3,3.1,0.0,ninguno,No,No,0.0,,0.0,No aplica
+76777,Hombre,29,25-29 años,Sobrepeso,25.4,94.2,4.1,0.0,ninguno,No,No,0.0,,0.0,No aplica
+76785,Hombre,22,18-24 años,Normal,17.3,67.7,7.5,0.0,ninguno,No,Sí,0.0,,1.0,No aplica
+76800,Hombre,18,18-24 años,Normal,24.1,77.5,5.2,0.0,ninguno,No,No,0.0,,0.0,No aplica
+76821,Hombre,18,18-24 años,Sobrepeso,26.0,86.9,4.4,1.0,glucosa,No,No,0.0,,0.0,No aplica
+76825,Hombre,28,25-29 años,Sobrepeso,29.0,95.0,5.8,1.0,triglicéridos,No,No,0.0,,0.0,No aplica
+76846,Mujer,26,25-29 años,Normal,20.6,72.5,4.3,0.0,ninguno,No,No,0.0,,0.0,No aplica
+76847,Mujer,35,30-35 años,Normal,17.4,66.1,5.2,0.0,ninguno,No,No,0.0,,0.0,No aplica
+76878,Hombre,30,30-35 años,Obesidad,37.2,124.8,6.7,5.0,"cintura, triglicéridos, HDL bajo, presión, glucosa",Sí,No,1.0,0.0,0.0,"Sí, tenía algún diagnóstico"
+76882,Mujer,33,30-35 años,Obesidad,36.1,105.6,4.1,2.0,"cintura, HDL bajo",No,No,0.0,,0.0,No aplica
+76891,Mujer,20,18-24 años,Obesidad,36.1,105.0,5.9,2.0,"cintura, triglicéridos",No,Sí,0.0,,1.0,No aplica
+76894,Mujer,18,18-24 años,Sobrepeso,26.1,81.1,5.4,2.0,"triglicéridos, HDL bajo",No,No,0.0,,0.0,No aplica
+76903,Hombre,34,30-35 años,Normal,20.7,78.5,5.9,4.0,"triglicéridos, HDL bajo, presión, glucosa",Sí,No,1.0,0.0,0.0,"Sí, tenía algún diagnóstico"
+76907,Hombre,32,30-35 años,Sobrepeso,25.7,97.5,6.2,0.0,ninguno,No,No,0.0,,0.0,No aplica
+76908,Mujer,22,18-24 años,Normal,23.8,89.5,2.8,1.0,cintura,No,No,0.0,,0.0,No aplica
+76909,Mujer,18,18-24 años,Normal,22.5,70.7,4.1,1.0,HDL bajo,No,No,0.0,,0.0,No aplica
+76920,Mujer,23,18-24 años,Normal,22.5,81.0,4.7,0.0,ninguno,No,No,0.0,,0.0,No aplica
+76924,Hombre,19,18-24 años,Normal,21.7,77.8,4.8,1.0,HDL bajo,No,No,0.0,,0.0,No aplica
+76940,Hombre,21,18-24 años,Normal,24.5,83.9,5.7,0.0,ninguno,No,No,0.0,,0.0,No aplica
+76961,Hombre,18,18-24 años,Obesidad,33.4,105.7,6.6,,"cintura, triglicéridos, HDL bajo",No evaluable,No,,,0.0,No aplica
+76970,Mujer,19,18-24 años,Normal,22.7,81.0,3.8,2.0,"triglicéridos, HDL bajo",No,No,0.0,,0.0,No aplica
+76978,Mujer,18,18-24 años,Obesidad,36.1,122.0,3.1,3.0,"cintura, HDL bajo, glucosa",Sí,No,1.0,1.0,0.0,"No, sin diagnóstico previo"
+76987,Mujer,33,30-35 años,Sobrepeso,28.0,97.4,5.0,5.0,"cintura, triglicéridos, HDL bajo, presión, glucosa",Sí,No,1.0,0.0,0.0,"Sí, tenía algún diagnóstico"
+76994,Mujer,31,30-35 años,Normal,22.2,77.4,4.1,1.0,presión,No,No,0.0,,0.0,No aplica
+77016,Mujer,20,18-24 años,Sobrepeso,28.4,95.0,3.5,1.0,cintura,No,No,0.0,,0.0,No aplica
+77019,Mujer,28,25-29 años,Obesidad,30.5,97.2,4.8,2.0,"cintura, HDL bajo",No,No,0.0,,0.0,No aplica
+77047,Hombre,28,25-29 años,Sobrepeso,26.4,84.1,4.0,1.0,HDL bajo,No,No,0.0,,0.0,No aplica
+77050,Hombre,31,30-35 años,Obesidad,35.9,118.7,6.5,3.0,"cintura, triglicéridos, presión",Sí,No,1.0,1.0,0.0,"No, sin diagnóstico previo"
+77051,Mujer,21,18-24 años,Sobrepeso,28.2,88.8,4.8,1.0,cintura,No,No,0.0,,0.0,No aplica
+77070,Hombre,30,30-35 años,Normal,23.4,81.5,4.4,1.0,triglicéridos,No,No,0.0,,0.0,No aplica
+77076,Hombre,35,30-35 años,Obesidad,33.7,111.6,7.8,2.0,"cintura, triglicéridos",No,Sí,0.0,,1.0,No aplica
+77082,Mujer,25,25-29 años,Normal,23.3,79.7,4.1,0.0,ninguno,No,No,0.0,,0.0,No aplica
+77091,Mujer,31,30-35 años,Normal,24.8,69.3,3.9,0.0,ninguno,No,No,0.0,,0.0,No aplica
+77097,Hombre,25,25-29 años,Normal,21.6,80.7,5.4,1.0,glucosa,No,No,0.0,,0.0,No aplica
+77098,Hombre,34,30-35 años,Normal,24.8,88.4,6.8,2.0,"triglicéridos, presión",No,No,0.0,,0.0,No aplica
+77108,Hombre,19,18-24 años,Sobrepeso,26.8,87.4,5.5,2.0,"triglicéridos, HDL bajo",No,No,0.0,,0.0,No aplica
+77116,Hombre,21,18-24 años,Normal,19.3,69.5,4.6,0.0,ninguno,No,No,0.0,,0.0,No aplica
+77128,Hombre,19,18-24 años,Obesidad,30.1,102.3,5.4,1.0,cintura,No,No,0.0,,0.0,No aplica
+77144,Mujer,27,25-29 años,Normal,22.2,78.5,4.3,1.0,glucosa,No,No,0.0,,0.0,No aplica
+77150,Hombre,31,30-35 años,Obesidad,33.7,117.5,8.9,4.0,"cintura, triglicéridos, HDL bajo, presión",Sí,Sí,1.0,0.0,1.0,"Sí, tenía algún diagnóstico"
+77151,Hombre,34,30-35 años,Normal,21.0,82.2,7.2,2.0,"triglicéridos, glucosa",No,Sí,0.0,,1.0,No aplica
+77153,Mujer,29,25-29 años,Sobrepeso,27.4,89.2,4.6,2.0,"cintura, HDL bajo",No,No,0.0,,0.0,No aplica
+77156,Hombre,30,30-35 años,Obesidad,31.5,107.9,8.0,4.0,"cintura, triglicéridos, HDL bajo, glucosa",Sí,Sí,1.0,1.0,1.0,"No, sin diagnóstico previo"
+77220,Mujer,25,25-29 años,Normal,24.4,82.1,4.2,1.0,presión,No,No,0.0,,0.0,No aplica
+77228,Hombre,27,25-29 años,Obesidad,30.7,97.0,5.8,3.0,"triglicéridos, HDL bajo, glucosa",Sí,No,1.0,1.0,0.0,"No, sin diagnóstico previo"
+77234,Mujer,24,18-24 años,Obesidad,33.2,109.9,3.8,1.0,cintura,No,No,0.0,,0.0,No aplica
+77235,Mujer,32,30-35 años,Normal,24.7,87.2,5.5,2.0,"triglicéridos, HDL bajo",No,No,0.0,,0.0,No aplica
+77237,Mujer,21,18-24 años,Sobrepeso,29.6,93.8,7.4,4.0,"cintura, triglicéridos, HDL bajo, glucosa",Sí,Sí,1.0,0.0,1.0,"Sí, tenía algún diagnóstico"
+77240,Hombre,35,30-35 años,Normal,23.2,80.7,5.1,2.0,"HDL bajo, glucosa",No,No,0.0,,0.0,No aplica
+77241,Hombre,27,25-29 años,Sobrepeso,25.6,84.3,5.4,0.0,ninguno,No,No,0.0,,0.0,No aplica
+77256,Hombre,30,30-35 años,Sobrepeso,28.6,110.2,5.5,2.0,"cintura, HDL bajo",No,No,0.0,,0.0,No aplica
+77259,Hombre,24,18-24 años,Normal,21.6,82.6,5.3,1.0,HDL bajo,No,No,0.0,,0.0,No aplica
+77262,Mujer,19,18-24 años,Normal,18.8,65.5,3.9,0.0,ninguno,No,No,0.0,,0.0,No aplica
+77269,Hombre,19,18-24 años,Obesidad,40.4,122.2,6.6,2.0,"cintura, HDL bajo",No,No,0.0,,0.0,No aplica
+77282,Hombre,20,18-24 años,Obesidad,32.9,94.8,6.2,1.0,triglicéridos,No,No,0.0,,0.0,No aplica
+77285,Mujer,29,25-29 años,Obesidad,34.5,111.6,4.7,2.0,"cintura, HDL bajo",No,No,0.0,,0.0,No aplica
+77289,Hombre,24,18-24 años,Sobrepeso,28.4,91.6,4.5,1.0,glucosa,No,No,0.0,,0.0,No aplica
+77300,Hombre,24,18-24 años,Obesidad,31.9,99.0,6.0,1.0,HDL bajo,No,No,0.0,,0.0,No aplica
+77304,Mujer,21,18-24 años,Obesidad,31.5,105.6,8.3,3.0,"cintura, triglicéridos, HDL bajo",Sí,Sí,1.0,1.0,1.0,"No, sin diagnóstico previo"
+77310,Hombre,26,25-29 años,Sobrepeso,29.8,91.7,6.6,0.0,ninguno,No,No,0.0,,0.0,No aplica
+77315,Mujer,20,18-24 años,Sobrepeso,25.9,92.4,3.6,1.0,cintura,No,No,0.0,,0.0,No aplica
+77320,Mujer,35,30-35 años,Normal,19.8,69.7,3.0,1.0,HDL bajo,No,No,0.0,,0.0,No aplica
+77323,Mujer,28,25-29 años,Normal,23.5,90.7,5.1,3.0,"cintura, HDL bajo, glucosa",Sí,No,1.0,0.0,0.0,"Sí, tenía algún diagnóstico"
+77337,Mujer,23,18-24 años,Sobrepeso,29.1,93.9,3.9,4.0,"cintura, triglicéridos, HDL bajo, presión",Sí,No,1.0,1.0,0.0,"No, sin diagnóstico previo"
+77346,Hombre,30,30-35 años,Obesidad,39.9,133.3,5.7,4.0,"cintura, HDL bajo, presión, glucosa",Sí,No,1.0,1.0,0.0,"No, sin diagnóstico previo"
+77386,Mujer,31,30-35 años,Normal,23.4,85.9,6.0,0.0,ninguno,No,Sí,0.0,,1.0,No aplica
+77395,Mujer,18,18-24 años,Normal,23.7,79.5,2.5,0.0,ninguno,No,No,0.0,,0.0,No aplica
+77396,Mujer,31,30-35 años,Normal,24.1,96.5,6.7,2.0,"cintura, triglicéridos",No,Sí,0.0,,1.0,No aplica
+77414,Hombre,32,30-35 años,Obesidad,40.2,120.4,5.0,1.0,cintura,No,No,0.0,,0.0,No aplica
+77419,Hombre,24,18-24 años,Sobrepeso,26.4,94.2,6.6,2.0,"triglicéridos, HDL bajo",No,No,0.0,,0.0,No aplica
+77431,Mujer,22,18-24 años,Normal,21.1,71.8,5.4,0.0,ninguno,No,No,0.0,,0.0,No aplica
+77452,Hombre,27,25-29 años,Sobrepeso,29.1,98.2,6.4,2.0,"triglicéridos, HDL bajo",No,No,0.0,,0.0,No aplica
+77455,Mujer,18,18-24 años,Sobrepeso,25.3,82.0,4.1,1.0,HDL bajo,No,No,0.0,,0.0,No aplica
+77459,Hombre,29,25-29 años,Sobrepeso,25.4,90.6,4.7,0.0,ninguno,No,No,0.0,,0.0,No aplica
+77465,Mujer,21,18-24 años,Normal,19.5,65.5,5.0,0.0,ninguno,No,No,0.0,,0.0,No aplica
+77470,Mujer,25,25-29 años,Obesidad,30.0,93.0,6.2,1.0,cintura,No,Sí,0.0,,1.0,No aplica
+77487,Mujer,18,18-24 años,Normal,20.6,75.5,4.3,1.0,HDL bajo,No,No,0.0,,0.0,No aplica
+77499,Hombre,31,30-35 años,Obesidad,31.8,111.2,6.2,1.0,cintura,No,No,0.0,,0.0,No aplica
+77505,Mujer,30,30-35 años,Normal,22.1,80.3,4.9,0.0,ninguno,No,No,0.0,,0.0,No aplica
+77508,Mujer,18,18-24 años,Normal,21.8,84.5,5.0,0.0,ninguno,No,No,0.0,,0.0,No aplica
+77513,Hombre,34,30-35 años,Normal,24.7,86.5,3.9,1.0,triglicéridos,No,No,0.0,,0.0,No aplica
+77538,Hombre,23,18-24 años,Normal,23.8,84.1,6.7,0.0,ninguno,No,No,0.0,,0.0,No aplica
+77546,Hombre,20,18-24 años,Obesidad,33.7,99.7,8.0,3.0,"triglicéridos, HDL bajo, glucosa",Sí,Sí,1.0,1.0,1.0,"No, sin diagnóstico previo"
+77549,Mujer,22,18-24 años,Normal,24.1,85.0,6.2,1.0,HDL bajo,No,Sí,0.0,,1.0,No aplica
+77556,Hombre,24,18-24 años,Sobrepeso,28.9,110.7,7.3,1.0,cintura,No,Sí,0.0,,1.0,No aplica
+77571,Mujer,18,18-24 años,Normal,20.6,66.7,3.6,2.0,"triglicéridos, HDL bajo",No,No,0.0,,0.0,No aplica
+77577,Mujer,33,30-35 años,Sobrepeso,25.6,84.2,4.8,0.0,ninguno,No,No,0.0,,0.0,No aplica
+77581,Mujer,31,30-35 años,Obesidad,40.4,123.3,7.2,4.0,"cintura, triglicéridos, HDL bajo, glucosa",Sí,Sí,1.0,1.0,1.0,"No, sin diagnóstico previo"
+77587,Hombre,20,18-24 años,Obesidad,37.4,114.8,7.8,3.0,"cintura, triglicéridos, presión",Sí,Sí,1.0,1.0,1.0,"No, sin diagnóstico previo"
+77604,Hombre,25,25-29 años,Obesidad,50.7,150.9,8.6,2.0,"cintura, presión",No,Sí,0.0,,1.0,No aplica
+77611,Mujer,35,30-35 años,Normal,22.3,80.9,3.0,1.0,glucosa,No,No,0.0,,0.0,No aplica
+77612,Hombre,22,18-24 años,Obesidad,56.7,148.5,8.8,2.0,"cintura, triglicéridos",No,Sí,0.0,,1.0,No aplica
+77615,Mujer,19,18-24 años,Sobrepeso,29.1,88.9,3.7,1.0,cintura,No,No,0.0,,0.0,No aplica
+77617,Hombre,34,30-35 años,Sobrepeso,27.0,,4.3,,ninguno,No evaluable,No,,,0.0,No aplica
+77618,Mujer,25,25-29 años,Normal,21.2,68.4,4.5,0.0,ninguno,No,No,0.0,,0.0,No aplica
+77620,Mujer,28,25-29 años,Obesidad,40.2,112.0,6.3,1.0,cintura,No,Sí,0.0,,1.0,No aplica
+77638,Mujer,23,18-24 años,Normal,21.7,85.4,3.9,1.0,HDL bajo,No,No,0.0,,0.0,No aplica
+77639,Mujer,28,25-29 años,Obesidad,51.9,153.0,6.8,4.0,"cintura, triglicéridos, HDL bajo, presión",Sí,Sí,1.0,0.0,1.0,"Sí, tenía algún diagnóstico"
+77643,Mujer,24,18-24 años,Obesidad,36.9,109.5,5.5,3.0,"cintura, triglicéridos, HDL bajo",Sí,No,1.0,1.0,0.0,"No, sin diagnóstico previo"
+77646,Hombre,18,18-24 años,Sobrepeso,28.9,95.2,6.3,1.0,triglicéridos,No,No,0.0,,0.0,No aplica
+77653,Mujer,29,25-29 años,Sobrepeso,29.0,94.0,3.7,1.0,cintura,No,No,0.0,,0.0,No aplica
+77664,Mujer,30,30-35 años,Sobrepeso,29.8,87.3,3.8,0.0,ninguno,No,No,0.0,,0.0,No aplica
+77670,Hombre,25,25-29 años,Normal,21.5,75.0,7.9,0.0,ninguno,No,Sí,0.0,,1.0,No aplica
+77675,Hombre,33,30-35 años,Normal,20.6,80.7,5.5,1.0,triglicéridos,No,No,0.0,,0.0,No aplica
+77680,Hombre,22,18-24 años,Obesidad,30.6,95.4,5.8,1.0,presión,No,No,0.0,,0.0,No aplica
+77698,Mujer,30,30-35 años,Sobrepeso,27.4,92.6,6.6,2.0,"cintura, triglicéridos",No,Sí,0.0,,1.0,No aplica
+77714,Mujer,18,18-24 años,Obesidad,37.2,117.1,6.9,3.0,"cintura, HDL bajo, glucosa",Sí,Sí,1.0,1.0,1.0,"No, sin diagnóstico previo"
+77716,Hombre,20,18-24 años,Sobrepeso,25.0,86.4,4.6,0.0,ninguno,No,No,0.0,,0.0,No aplica
+77720,Hombre,34,30-35 años,Obesidad,37.2,128.7,5.9,5.0,"cintura, triglicéridos, HDL bajo, presión, glucosa",Sí,No,1.0,0.0,0.0,"Sí, tenía algún diagnóstico"
+77723,Hombre,27,25-29 años,Normal,21.8,80.8,7.4,1.0,triglicéridos,No,Sí,0.0,,1.0,No aplica
+77742,Hombre,19,18-24 años,Normal,23.0,75.0,4.4,0.0,ninguno,No,No,0.0,,0.0,No aplica
+77743,Mujer,20,18-24 años,Normal,18.2,65.7,4.5,0.0,ninguno,No,No,0.0,,0.0,No aplica
+77745,Hombre,33,30-35 años,Sobrepeso,25.8,92.8,5.2,1.0,HDL bajo,No,No,0.0,,0.0,No aplica
+77747,Hombre,27,25-29 años,Normal,20.1,69.4,5.0,0.0,ninguno,No,No,0.0,,0.0,No aplica
+77771,Hombre,33,30-35 años,Sobrepeso,26.9,92.0,5.6,0.0,ninguno,No,No,0.0,,0.0,No aplica
+77791,Hombre,31,30-35 años,Normal,22.9,79.3,6.0,2.0,"triglicéridos, HDL bajo",No,No,0.0,,0.0,No aplica
+77795,Mujer,34,30-35 años,Obesidad,31.8,100.4,5.2,1.0,cintura,No,No,0.0,,0.0,No aplica
+77801,Hombre,33,30-35 años,Normal,24.6,82.4,5.8,0.0,ninguno,No,No,0.0,,0.0,No aplica
+77807,Hombre,30,30-35 años,Sobrepeso,29.9,96.8,5.2,0.0,ninguno,No,No,0.0,,0.0,No aplica
+77813,Hombre,27,25-29 años,Normal,21.5,87.3,5.3,0.0,ninguno,No,No,0.0,,0.0,No aplica
+77816,Hombre,18,18-24 años,Sobrepeso,28.0,96.4,5.0,0.0,ninguno,No,No,0.0,,0.0,No aplica
+77836,Hombre,26,25-29 años,Normal,21.7,77.6,4.5,0.0,ninguno,No,No,0.0,,0.0,No aplica
+77837,Mujer,27,25-29 años,Sobrepeso,25.6,86.7,4.0,0.0,ninguno,No,No,0.0,,0.0,No aplica
+77838,Hombre,33,30-35 años,Sobrepeso,28.3,97.1,6.3,1.0,presión,No,No,0.0,,0.0,No aplica
+77844,Hombre,20,18-24 años,Sobrepeso,26.2,95.0,7.3,1.0,triglicéridos,No,Sí,0.0,,1.0,No aplica
+77855,Hombre,23,18-24 años,Normal,23.9,81.8,4.0,1.0,glucosa,No,No,0.0,,0.0,No aplica
+77856,Hombre,33,30-35 años,Normal,21.3,87.0,4.7,1.0,triglicéridos,No,No,0.0,,0.0,No aplica
+77881,Mujer,19,18-24 años,Sin dato,,,3.7,,triglicéridos,No evaluable,No,,,0.0,No aplica
+77893,Hombre,24,18-24 años,Sobrepeso,27.4,90.5,5.5,2.0,"triglicéridos, HDL bajo",No,No,0.0,,0.0,No aplica
+77903,Mujer,31,30-35 años,Obesidad,30.6,98.7,3.1,1.0,cintura,No,No,0.0,,0.0,No aplica
+77912,Mujer,34,30-35 años,Obesidad,40.5,103.0,3.1,1.0,cintura,No,No,0.0,,0.0,No aplica
+77933,Mujer,18,18-24 años,Normal,23.5,75.9,4.5,0.0,ninguno,No,No,0.0,,0.0,No aplica
+77942,Mujer,21,18-24 años,Normal,22.3,77.8,4.1,0.0,ninguno,No,No,0.0,,0.0,No aplica
+77952,Hombre,27,25-29 años,Sobrepeso,28.0,91.8,6.5,1.0,triglicéridos,No,No,0.0,,0.0,No aplica
+77963,Hombre,32,30-35 años,Obesidad,33.2,109.6,7.2,4.0,"cintura, triglicéridos, HDL bajo, glucosa",Sí,Sí,1.0,0.0,1.0,"Sí, tenía algún diagnóstico"
+77991,Mujer,30,30-35 años,Normal,22.1,80.8,3.5,2.0,"triglicéridos, glucosa",No,No,0.0,,0.0,No aplica
+77993,Hombre,21,18-24 años,Obesidad,50.3,156.6,7.6,1.0,cintura,No,Sí,0.0,,1.0,No aplica
+78000,Mujer,33,30-35 años,Normal,23.1,80.5,5.5,1.0,glucosa,No,No,0.0,,0.0,No aplica
+78001,Mujer,31,30-35 años,Normal,21.3,74.1,4.2,0.0,ninguno,No,No,0.0,,0.0,No aplica
+78004,Hombre,23,18-24 años,Obesidad,35.0,121.8,6.4,5.0,"cintura, triglicéridos, HDL bajo, presión, glucosa",Sí,No,1.0,0.0,0.0,"Sí, tenía algún diagnóstico"
+78008,Mujer,33,30-35 años,Obesidad,32.9,104.0,4.7,2.0,"cintura, triglicéridos",No,No,0.0,,0.0,No aplica
+78012,Hombre,33,30-35 años,Obesidad,30.4,107.4,8.8,4.0,"cintura, triglicéridos, HDL bajo, presión",Sí,Sí,1.0,1.0,1.0,"No, sin diagnóstico previo"
+78034,Hombre,31,30-35 años,Obesidad,31.2,104.9,6.4,3.0,"cintura, HDL bajo, glucosa",Sí,No,1.0,0.0,0.0,"Sí, tenía algún diagnóstico"
+78044,Mujer,26,25-29 años,Normal,20.1,73.7,4.7,,ninguno,No evaluable,No,,,0.0,No aplica
+78046,Hombre,19,18-24 años,Obesidad,32.9,108.2,7.3,3.0,"cintura, triglicéridos, HDL bajo",Sí,Sí,1.0,1.0,1.0,"No, sin diagnóstico previo"
+78054,Mujer,23,18-24 años,Sobrepeso,27.1,91.0,4.2,1.0,cintura,No,No,0.0,,0.0,No aplica
+78068,Hombre,19,18-24 años,Normal,21.3,74.0,7.0,1.0,glucosa,No,No,0.0,,0.0,No aplica
+78085,Hombre,32,30-35 años,Obesidad,30.3,107.2,6.5,1.0,cintura,No,No,0.0,,0.0,No aplica
+78091,Mujer,18,18-24 años,Normal,21.1,75.0,2.7,0.0,ninguno,No,No,0.0,,0.0,No aplica
+78093,Hombre,29,25-29 años,Obesidad,30.0,100.0,5.7,2.0,"triglicéridos, presión",No,No,0.0,,0.0,No aplica
+78111,Hombre,32,30-35 años,Normal,19.7,77.8,3.7,1.0,presión,No,No,0.0,,0.0,No aplica
+78132,Mujer,22,18-24 años,Obesidad,34.4,103.7,6.5,2.0,"cintura, HDL bajo",No,Sí,0.0,,1.0,No aplica
+78153,Mujer,18,18-24 años,Normal,20.9,75.0,3.7,0.0,ninguno,No,No,0.0,,0.0,No aplica
+78164,Mujer,18,18-24 años,Normal,18.5,72.4,4.6,0.0,ninguno,No,No,0.0,,0.0,No aplica
+78168,Mujer,19,18-24 años,Obesidad,45.1,138.4,4.3,2.0,"cintura, HDL bajo",No,No,0.0,,0.0,No aplica
+78189,Mujer,22,18-24 años,Normal,23.0,82.5,2.7,0.0,ninguno,No,No,0.0,,0.0,No aplica
+78193,Hombre,33,30-35 años,Obesidad,32.3,112.7,5.3,2.0,"cintura, glucosa",No,No,0.0,,0.0,No aplica
+78199,Mujer,35,30-35 años,Obesidad,32.5,104.7,4.0,2.0,"cintura, glucosa",No,No,0.0,,0.0,No aplica
+78211,Hombre,34,30-35 años,Obesidad,33.0,117.8,5.5,5.0,"cintura, triglicéridos, HDL bajo, presión, glucosa",Sí,No,1.0,0.0,0.0,"Sí, tenía algún diagnóstico"
+78220,Hombre,30,30-35 años,Normal,21.5,74.3,7.9,0.0,ninguno,No,Sí,0.0,,1.0,No aplica
+78244,Hombre,28,25-29 años,Obesidad,40.0,116.7,6.2,5.0,"cintura, triglicéridos, HDL bajo, presión, glucosa",Sí,No,1.0,1.0,0.0,"No, sin diagnóstico previo"
+78247,Mujer,24,18-24 años,Obesidad,45.7,139.5,7.7,3.0,"cintura, triglicéridos, HDL bajo",Sí,Sí,1.0,1.0,1.0,"No, sin diagnóstico previo"
+78252,Hombre,18,18-24 años,Normal,22.4,79.3,7.8,0.0,ninguno,No,Sí,0.0,,1.0,No aplica
+78267,Hombre,32,30-35 años,Sobrepeso,25.9,103.9,5.2,1.0,cintura,No,No,0.0,,0.0,No aplica
+78282,Hombre,32,30-35 años,Sobrepeso,25.4,103.7,6.3,4.0,"cintura, triglicéridos, HDL bajo, glucosa",Sí,No,1.0,0.0,0.0,"Sí, tenía algún diagnóstico"
+78292,Mujer,28,25-29 años,Normal,22.5,85.5,3.3,0.0,ninguno,No,No,0.0,,0.0,No aplica
+78294,Hombre,30,30-35 años,Obesidad,32.1,104.3,6.6,2.0,"cintura, triglicéridos",No,No,0.0,,0.0,No aplica
+78307,Mujer,23,18-24 años,Sobrepeso,28.4,91.2,5.3,2.0,"cintura, triglicéridos",No,No,0.0,,0.0,No aplica
+78318,Mujer,30,30-35 años,Normal,17.8,67.9,5.2,0.0,ninguno,No,No,0.0,,0.0,No aplica
+78322,Hombre,29,25-29 años,Sobrepeso,28.1,101.3,7.2,3.0,"triglicéridos, HDL bajo, glucosa",Sí,Sí,1.0,0.0,1.0,"Sí, tenía algún diagnóstico"
+78330,Hombre,27,25-29 años,Sobrepeso,28.7,108.0,6.1,2.0,"cintura, HDL bajo",No,No,0.0,,0.0,No aplica
+78336,Mujer,19,18-24 años,Normal,21.4,82.5,4.4,0.0,ninguno,No,No,0.0,,0.0,No aplica
+78338,Mujer,35,30-35 años,Sobrepeso,28.6,94.9,5.9,1.0,cintura,No,Sí,0.0,,1.0,No aplica
+78345,Mujer,19,18-24 años,Normal,21.1,75.7,3.5,0.0,ninguno,No,No,0.0,,0.0,No aplica
+78349,Hombre,33,30-35 años,Obesidad,31.6,107.3,7.3,2.0,"cintura, glucosa",No,Sí,0.0,,1.0,No aplica
+78352,Hombre,25,25-29 años,Normal,23.6,85.3,5.0,0.0,ninguno,No,No,0.0,,0.0,No aplica
+78355,Mujer,34,30-35 años,Obesidad,30.2,102.7,5.9,2.0,"cintura, triglicéridos",No,Sí,0.0,,1.0,No aplica
+78364,Hombre,18,18-24 años,Normal,20.2,74.8,6.7,0.0,ninguno,No,No,0.0,,0.0,No aplica
+78367,Hombre,30,30-35 años,Normal,23.9,85.5,5.1,1.0,triglicéridos,No,No,0.0,,0.0,No aplica
+78369,Hombre,23,18-24 años,Normal,20.4,85.8,6.9,2.0,"triglicéridos, HDL bajo",No,No,0.0,,0.0,No aplica
+78371,Mujer,30,30-35 años,Normal,18.9,75.5,4.9,0.0,ninguno,No,No,0.0,,0.0,No aplica
+78381,Hombre,21,18-24 años,Normal,18.1,83.8,4.0,0.0,ninguno,No,No,0.0,,0.0,No aplica
+78388,Mujer,30,30-35 años,Obesidad,33.1,117.3,5.5,3.0,"cintura, triglicéridos, HDL bajo",Sí,No,1.0,0.0,0.0,"Sí, tenía algún diagnóstico"
+78393,Hombre,26,25-29 años,Obesidad,33.1,110.1,5.9,3.0,"cintura, triglicéridos, presión",Sí,No,1.0,1.0,0.0,"No, sin diagnóstico previo"
+78434,Hombre,32,30-35 años,Obesidad,33.1,118.0,7.3,4.0,"cintura, triglicéridos, HDL bajo, glucosa",Sí,Sí,1.0,1.0,1.0,"No, sin diagnóstico previo"
+78438,Hombre,33,30-35 años,Normal,23.6,80.6,6.2,0.0,ninguno,No,No,0.0,,0.0,No aplica
+78439,Mujer,30,30-35 años,Obesidad,30.5,107.9,3.9,,"cintura, HDL bajo, glucosa",No evaluable,No,,,0.0,No aplica
+78447,Mujer,23,18-24 años,Normal,19.1,73.2,4.2,1.0,HDL bajo,No,No,0.0,,0.0,No aplica
+78460,Hombre,32,30-35 años,Sobrepeso,25.5,95.8,6.3,1.0,glucosa,No,No,0.0,,0.0,No aplica
+78464,Mujer,26,25-29 años,Normal,21.3,81.5,4.7,1.0,triglicéridos,No,No,0.0,,0.0,No aplica
+78468,Mujer,30,30-35 años,Obesidad,33.4,101.0,4.5,4.0,"cintura, triglicéridos, HDL bajo, glucosa",Sí,No,1.0,1.0,0.0,"No, sin diagnóstico previo"
+78490,Hombre,23,18-24 años,Normal,15.4,66.8,4.8,1.0,presión,No,No,0.0,,0.0,No aplica
+78496,Mujer,19,18-24 años,Obesidad,34.8,102.0,5.9,2.0,"cintura, triglicéridos",No,Sí,0.0,,1.0,No aplica
+78499,Hombre,23,18-24 años,Normal,19.3,72.2,5.6,1.0,HDL bajo,No,No,0.0,,0.0,No aplica
+78512,Hombre,31,30-35 años,Normal,22.0,84.7,4.6,1.0,presión,No,No,0.0,,0.0,No aplica
+78568,Mujer,29,25-29 años,Obesidad,33.4,107.2,4.2,2.0,"cintura, HDL bajo",No,No,0.0,,0.0,No aplica
+78577,Hombre,22,18-24 años,Normal,23.8,85.5,7.8,1.0,HDL bajo,No,Sí,0.0,,1.0,No aplica
+78611,Hombre,21,18-24 años,Normal,23.1,76.5,5.2,0.0,ninguno,No,No,0.0,,0.0,No aplica
+78613,Mujer,22,18-24 años,Sobrepeso,27.3,91.1,5.7,1.0,cintura,No,No,0.0,,0.0,No aplica
+78616,Mujer,21,18-24 años,Obesidad,33.7,101.5,6.2,2.0,"cintura, triglicéridos",No,Sí,0.0,,1.0,No aplica
+78631,Mujer,28,25-29 años,Obesidad,33.3,111.6,4.5,2.0,"cintura, HDL bajo",No,No,0.0,,0.0,No aplica
+78633,Hombre,24,18-24 años,Normal,18.4,76.1,7.5,1.0,glucosa,No,Sí,0.0,,1.0,No aplica
+78650,Hombre,21,18-24 años,Normal,21.2,76.6,6.2,1.0,glucosa,No,No,0.0,,0.0,No aplica
+78655,Hombre,28,25-29 años,Sobrepeso,29.2,101.0,7.2,1.0,triglicéridos,No,Sí,0.0,,1.0,No aplica
+78660,Hombre,35,30-35 años,Obesidad,57.9,135.6,6.1,5.0,"cintura, triglicéridos, HDL bajo, presión, glucosa",Sí,No,1.0,0.0,0.0,"Sí, tenía algún diagnóstico"
+78669,Mujer,27,25-29 años,Obesidad,33.4,102.6,4.7,2.0,"cintura, glucosa",No,No,0.0,,0.0,No aplica
+78675,Hombre,19,18-24 años,Normal,18.1,73.0,5.4,1.0,triglicéridos,No,No,0.0,,0.0,No aplica
+78694,Mujer,22,18-24 años,Normal,21.8,78.7,4.9,1.0,triglicéridos,No,No,0.0,,0.0,No aplica
+78720,Mujer,27,25-29 años,Obesidad,37.1,108.4,4.5,1.0,cintura,No,No,0.0,,0.0,No aplica
+78724,Hombre,23,18-24 años,Sobrepeso,25.1,89.5,5.4,1.0,HDL bajo,No,No,0.0,,0.0,No aplica
+78725,Hombre,35,30-35 años,Sobrepeso,29.0,98.6,5.8,1.0,HDL bajo,No,No,0.0,,0.0,No aplica
+78729,Mujer,18,18-24 años,Normal,21.0,77.1,3.6,0.0,ninguno,No,No,0.0,,0.0,No aplica
+78733,Hombre,27,25-29 años,Sobrepeso,28.2,98.1,5.1,0.0,ninguno,No,No,0.0,,0.0,No aplica
+78750,Mujer,20,18-24 años,Normal,22.3,75.9,4.2,0.0,ninguno,No,No,0.0,,0.0,No aplica
+78765,Hombre,33,30-35 años,Normal,24.5,90.0,7.3,0.0,ninguno,No,Sí,0.0,,1.0,No aplica
+78767,Hombre,29,25-29 años,Normal,24.1,86.7,5.3,0.0,ninguno,No,No,0.0,,0.0,No aplica
+78768,Mujer,34,30-35 años,Obesidad,30.2,94.8,5.4,2.0,"cintura, presión",No,No,0.0,,0.0,No aplica
+78769,Hombre,19,18-24 años,Normal,22.4,80.5,6.3,0.0,ninguno,No,No,0.0,,0.0,No aplica
+78772,Mujer,30,30-35 años,Obesidad,30.2,91.3,3.3,2.0,"cintura, HDL bajo",No,No,0.0,,0.0,No aplica
+78776,Hombre,24,18-24 años,Sobrepeso,25.0,86.4,4.6,0.0,ninguno,No,No,0.0,,0.0,No aplica
+78781,Hombre,29,25-29 años,Sobrepeso,29.4,102.7,7.5,1.0,cintura,No,Sí,0.0,,1.0,No aplica
+78782,Mujer,19,18-24 años,Normal,22.8,75.5,4.5,0.0,ninguno,No,No,0.0,,0.0,No aplica
+78798,Hombre,19,18-24 años,Sobrepeso,25.9,78.3,6.2,0.0,ninguno,No,No,0.0,,0.0,No aplica
+78832,Hombre,32,30-35 años,Sobrepeso,27.4,85.7,4.7,0.0,ninguno,No,No,0.0,,0.0,No aplica
+78833,Hombre,27,25-29 años,Obesidad,34.1,106.1,8.2,3.0,"cintura, triglicéridos, HDL bajo",Sí,Sí,1.0,1.0,1.0,"No, sin diagnóstico previo"
+78840,Mujer,18,18-24 años,Normal,20.4,70.6,5.0,0.0,ninguno,No,No,0.0,,0.0,No aplica
+78863,Hombre,18,18-24 años,Normal,22.0,75.4,3.7,0.0,ninguno,No,No,0.0,,0.0,No aplica
+78880,Hombre,33,30-35 años,Sobrepeso,29.1,97.8,5.3,1.0,glucosa,No,No,0.0,,0.0,No aplica
+78890,Hombre,23,18-24 años,Obesidad,44.5,126.4,8.2,1.0,cintura,No,Sí,0.0,,1.0,No aplica
+78896,Mujer,28,25-29 años,Obesidad,35.4,,5.2,,presión,No evaluable,No,,,0.0,No aplica
+78900,Hombre,27,25-29 años,Normal,24.1,89.4,6.0,1.0,triglicéridos,No,No,0.0,,0.0,No aplica
+78904,Mujer,23,18-24 años,Normal,18.1,66.4,4.0,0.0,ninguno,No,No,0.0,,0.0,No aplica
+78907,Hombre,30,30-35 años,Obesidad,42.1,129.0,8.7,3.0,"cintura, HDL bajo, glucosa",Sí,Sí,1.0,1.0,1.0,"No, sin diagnóstico previo"
+78920,Hombre,20,18-24 años,Obesidad,42.7,129.0,6.1,4.0,"cintura, triglicéridos, HDL bajo, glucosa",Sí,No,1.0,1.0,0.0,"No, sin diagnóstico previo"
+78925,Mujer,19,18-24 años,Normal,21.4,76.7,4.7,0.0,ninguno,No,No,0.0,,0.0,No aplica
+78931,Hombre,28,25-29 años,Obesidad,33.9,119.0,6.2,2.0,"cintura, glucosa",No,No,0.0,,0.0,No aplica
+78934,Hombre,20,18-24 años,Normal,22.3,79.6,5.5,0.0,ninguno,No,No,0.0,,0.0,No aplica
+78946,Hombre,20,18-24 años,Obesidad,31.1,105.6,6.0,2.0,"cintura, HDL bajo",No,No,0.0,,0.0,No aplica
+78957,Hombre,19,18-24 años,Obesidad,31.2,102.7,7.4,1.0,cintura,No,Sí,0.0,,1.0,No aplica
+78964,Hombre,35,30-35 años,Obesidad,30.4,109.3,4.9,3.0,"cintura, presión, glucosa",Sí,No,1.0,1.0,0.0,"No, sin diagnóstico previo"
+78966,Mujer,18,18-24 años,Normal,20.8,73.2,3.9,0.0,ninguno,No,No,0.0,,0.0,No aplica
+78969,Mujer,20,18-24 años,Obesidad,37.2,105.7,6.1,4.0,"cintura, triglicéridos, HDL bajo, glucosa",Sí,Sí,1.0,1.0,1.0,"No, sin diagnóstico previo"
+78973,Mujer,27,25-29 años,Normal,21.7,76.5,3.2,0.0,ninguno,No,No,0.0,,0.0,No aplica
+78976,Mujer,22,18-24 años,Sobrepeso,27.2,89.9,5.4,2.0,"cintura, HDL bajo",No,No,0.0,,0.0,No aplica
+78977,Mujer,24,18-24 años,Normal,18.8,71.3,5.3,1.0,glucosa,No,No,0.0,,0.0,No aplica
+78992,Mujer,19,18-24 años,Normal,19.7,74.6,3.7,1.0,HDL bajo,No,No,0.0,,0.0,No aplica
+79001,Hombre,28,25-29 años,Obesidad,32.1,119.2,6.2,4.0,"cintura, triglicéridos, HDL bajo, glucosa",Sí,No,1.0,0.0,0.0,"Sí, tenía algún diagnóstico"
+79018,Mujer,18,18-24 años,Normal,23.1,77.5,3.8,0.0,ninguno,No,No,0.0,,0.0,No aplica
+79024,Hombre,32,30-35 años,Normal,24.8,86.3,5.5,0.0,ninguno,No,No,0.0,,0.0,No aplica
+79026,Hombre,23,18-24 años,Normal,21.3,78.5,4.7,1.0,HDL bajo,No,No,0.0,,0.0,No aplica
+79032,Hombre,33,30-35 años,Obesidad,32.9,106.2,8.1,,"cintura, triglicéridos, HDL bajo, glucosa",No evaluable,Sí,,,1.0,No aplica
+79037,Mujer,22,18-24 años,Sobrepeso,27.3,90.4,5.4,3.0,"cintura, triglicéridos, HDL bajo",Sí,No,1.0,0.0,0.0,"Sí, tenía algún diagnóstico"
+79039,Mujer,34,30-35 años,Obesidad,41.4,133.5,4.8,4.0,"cintura, triglicéridos, HDL bajo, glucosa",Sí,No,1.0,0.0,0.0,"Sí, tenía algún diagnóstico"
+79044,Hombre,31,30-35 años,Sobrepeso,27.1,93.4,6.0,3.0,"triglicéridos, HDL bajo, glucosa",Sí,No,1.0,1.0,0.0,"No, sin diagnóstico previo"
+79049,Mujer,21,18-24 años,Normal,20.7,75.1,3.2,,HDL bajo,No evaluable,No,,,0.0,No aplica
+79059,Hombre,18,18-24 años,Normal,23.2,76.0,4.3,1.0,triglicéridos,No,No,0.0,,0.0,No aplica
+79060,Mujer,31,30-35 años,Sobrepeso,26.7,90.0,4.5,1.0,cintura,No,No,0.0,,0.0,No aplica
+79067,Hombre,26,25-29 años,Obesidad,31.3,109.2,6.3,2.0,"cintura, triglicéridos",No,No,0.0,,0.0,No aplica
+79069,Hombre,30,30-35 años,Obesidad,31.2,102.2,6.5,2.0,"cintura, HDL bajo",No,No,0.0,,0.0,No aplica
+79075,Hombre,27,25-29 años,Obesidad,33.5,115.8,7.8,2.0,"cintura, triglicéridos",No,Sí,0.0,,1.0,No aplica
+79099,Hombre,34,30-35 años,Normal,24.0,91.5,6.2,1.0,triglicéridos,No,No,0.0,,0.0,No aplica
+79110,Mujer,35,30-35 años,Normal,22.6,88.2,4.9,1.0,cintura,No,No,0.0,,0.0,No aplica
+79112,Mujer,22,18-24 años,Obesidad,36.4,105.8,5.1,1.0,cintura,No,No,0.0,,0.0,No aplica
+79127,Mujer,27,25-29 años,Sobrepeso,26.8,103.1,4.6,3.0,"cintura, triglicéridos, HDL bajo",Sí,No,1.0,1.0,0.0,"No, sin diagnóstico previo"
+79132,Mujer,28,25-29 años,Normal,19.4,73.2,3.1,0.0,ninguno,No,No,0.0,,0.0,No aplica
+79137,Hombre,25,25-29 años,Obesidad,36.3,118.6,7.5,3.0,"cintura, triglicéridos, HDL bajo",Sí,Sí,1.0,1.0,1.0,"No, sin diagnóstico previo"
+79146,Mujer,26,25-29 años,Normal,22.2,75.0,4.9,0.0,ninguno,No,No,0.0,,0.0,No aplica
+79153,Mujer,29,25-29 años,Obesidad,33.0,104.8,4.6,1.0,cintura,No,No,0.0,,0.0,No aplica
+79163,Hombre,19,18-24 años,Sobrepeso,28.5,,5.0,,triglicéridos,No evaluable,No,,,0.0,No aplica
+79164,Hombre,33,30-35 años,Obesidad,50.2,153.5,7.4,2.0,"cintura, presión",No,Sí,0.0,,1.0,No aplica
+79166,Hombre,19,18-24 años,Sobrepeso,26.3,91.4,7.1,0.0,ninguno,No,Sí,0.0,,1.0,No aplica
+79169,Mujer,32,30-35 años,Obesidad,31.6,118.2,4.8,3.0,"cintura, triglicéridos, HDL bajo",Sí,No,1.0,1.0,0.0,"No, sin diagnóstico previo"
+79181,Mujer,34,30-35 años,Obesidad,32.3,104.4,3.6,2.0,"cintura, HDL bajo",No,No,0.0,,0.0,No aplica
+79202,Mujer,23,18-24 años,Obesidad,31.8,92.4,5.9,1.0,cintura,No,Sí,0.0,,1.0,No aplica
+79205,Hombre,20,18-24 años,Normal,22.0,73.3,5.7,0.0,ninguno,No,No,0.0,,0.0,No aplica
+79207,Mujer,25,25-29 años,Obesidad,36.4,107.9,6.9,3.0,"cintura, triglicéridos, HDL bajo",Sí,Sí,1.0,0.0,1.0,"Sí, tenía algún diagnóstico"
+79210,Hombre,25,25-29 años,Normal,20.7,72.1,6.0,0.0,ninguno,No,No,0.0,,0.0,No aplica
+79213,Mujer,31,30-35 años,Obesidad,34.0,95.3,4.9,2.0,"cintura, presión",No,No,0.0,,0.0,No aplica
+79217,Hombre,33,30-35 años,Sobrepeso,27.6,96.7,5.5,0.0,ninguno,No,No,0.0,,0.0,No aplica
+79219,Hombre,23,18-24 años,Obesidad,32.3,104.1,4.3,2.0,"cintura, presión",No,No,0.0,,0.0,No aplica
+79223,Mujer,21,18-24 años,Obesidad,37.1,115.2,4.0,2.0,"cintura, triglicéridos",No,No,0.0,,0.0,No aplica
+79224,Mujer,19,18-24 años,Normal,18.2,70.8,4.6,0.0,ninguno,No,No,0.0,,0.0,No aplica
+79234,Mujer,30,30-35 años,Normal,17.4,73.8,5.0,0.0,ninguno,No,No,0.0,,0.0,No aplica
+79246,Mujer,30,30-35 años,Normal,23.6,86.4,3.0,0.0,ninguno,No,No,0.0,,0.0,No aplica
+79253,Mujer,26,25-29 años,Normal,20.8,81.2,3.7,0.0,ninguno,No,No,0.0,,0.0,No aplica
+79254,Mujer,29,25-29 años,Obesidad,32.8,98.5,5.6,2.0,"cintura, glucosa",No,No,0.0,,0.0,No aplica
+79256,Mujer,23,18-24 años,Normal,19.7,,2.9,,HDL bajo,No evaluable,No,,,0.0,No aplica
+79272,Mujer,28,25-29 años,Normal,20.6,79.1,3.7,0.0,ninguno,No,No,0.0,,0.0,No aplica
+79276,Mujer,26,25-29 años,Normal,16.9,68.7,3.8,0.0,ninguno,No,No,0.0,,0.0,No aplica
+79281,Mujer,23,18-24 años,Normal,22.5,83.9,7.3,0.0,ninguno,No,Sí,0.0,,1.0,No aplica
+79283,Hombre,18,18-24 años,Normal,23.3,78.2,7.2,0.0,ninguno,No,Sí,0.0,,1.0,No aplica
+79284,Mujer,34,30-35 años,Obesidad,50.1,128.5,6.0,2.0,"cintura, glucosa",No,Sí,0.0,,1.0,No aplica
+79290,Hombre,18,18-24 años,Sobrepeso,29.2,101.4,5.5,2.0,"triglicéridos, glucosa",No,No,0.0,,0.0,No aplica
+79293,Mujer,30,30-35 años,Sobrepeso,27.1,98.0,4.9,4.0,"cintura, triglicéridos, HDL bajo, glucosa",Sí,No,1.0,0.0,0.0,"Sí, tenía algún diagnóstico"
+79315,Hombre,32,30-35 años,Sobrepeso,25.3,91.1,6.4,1.0,triglicéridos,No,No,0.0,,0.0,No aplica
+79329,Hombre,18,18-24 años,Obesidad,36.5,107.9,8.4,3.0,"cintura, HDL bajo, glucosa",Sí,Sí,1.0,1.0,1.0,"No, sin diagnóstico previo"
+79340,Mujer,31,30-35 años,Sobrepeso,28.9,113.6,2.8,3.0,"cintura, triglicéridos, glucosa",Sí,No,1.0,0.0,0.0,"Sí, tenía algún diagnóstico"
+79341,Mujer,32,30-35 años,Normal,19.7,70.6,3.9,0.0,ninguno,No,No,0.0,,0.0,No aplica
+79342,Hombre,21,18-24 años,Sin dato,,78.1,6.3,0.0,ninguno,No,No,0.0,,0.0,No aplica
+79365,Hombre,29,25-29 años,Obesidad,33.2,105.7,7.5,2.0,"cintura, presión",No,Sí,0.0,,1.0,No aplica
+79369,Hombre,30,30-35 años,Normal,23.8,91.4,5.7,3.0,"triglicéridos, HDL bajo, glucosa",Sí,No,1.0,1.0,0.0,"No, sin diagnóstico previo"
+79380,Mujer,24,18-24 años,Sobrepeso,29.8,97.8,4.4,2.0,"cintura, triglicéridos",No,No,0.0,,0.0,No aplica
+79390,Mujer,20,18-24 años,Normal,23.0,77.3,5.4,0.0,ninguno,No,No,0.0,,0.0,No aplica
+79396,Mujer,32,30-35 años,Sobrepeso,26.2,88.0,4.2,2.0,"cintura, glucosa",No,No,0.0,,0.0,No aplica
+79398,Hombre,29,25-29 años,Normal,23.0,79.0,4.9,1.0,presión,No,No,0.0,,0.0,No aplica
+79405,Mujer,33,30-35 años,Normal,22.8,92.5,4.0,1.0,cintura,No,No,0.0,,0.0,No aplica
+79421,Hombre,31,30-35 años,Obesidad,31.9,112.8,6.6,3.0,"cintura, triglicéridos, HDL bajo",Sí,No,1.0,0.0,0.0,"Sí, tenía algún diagnóstico"
+79423,Mujer,25,25-29 años,Normal,21.6,86.5,5.3,0.0,ninguno,No,No,0.0,,0.0,No aplica
+79429,Mujer,18,18-24 años,Normal,19.9,67.1,3.0,1.0,HDL bajo,No,No,0.0,,0.0,No aplica
+79430,Hombre,18,18-24 años,Sobrepeso,27.0,83.0,4.5,0.0,ninguno,No,No,0.0,,0.0,No aplica
+79434,Mujer,22,18-24 años,Obesidad,45.9,143.3,4.8,2.0,"cintura, triglicéridos",No,No,0.0,,0.0,No aplica
+79459,Hombre,30,30-35 años,Obesidad,31.7,110.5,3.5,4.0,"cintura, triglicéridos, presión, glucosa",Sí,No,1.0,1.0,0.0,"No, sin diagnóstico previo"
+79462,Hombre,25,25-29 años,Obesidad,47.3,151.0,6.2,3.0,"cintura, HDL bajo, presión",Sí,No,1.0,1.0,0.0,"No, sin diagnóstico previo"
+79464,Mujer,28,25-29 años,Normal,21.4,75.6,3.4,0.0,ninguno,No,No,0.0,,0.0,No aplica
+79467,Hombre,26,25-29 años,Sobrepeso,26.5,98.0,8.1,2.0,"triglicéridos, HDL bajo",No,Sí,0.0,,1.0,No aplica
+79473,Mujer,27,25-29 años,Obesidad,30.8,95.9,4.7,3.0,"cintura, triglicéridos, HDL bajo",Sí,No,1.0,1.0,0.0,"No, sin diagnóstico previo"
+79522,Mujer,24,18-24 años,Obesidad,30.6,95.0,6.4,2.0,"cintura, HDL bajo",No,Sí,0.0,,1.0,No aplica
+79539,Mujer,18,18-24 años,Normal,22.3,82.1,4.4,0.0,ninguno,No,No,0.0,,0.0,No aplica
+79545,Mujer,33,30-35 años,Sobrepeso,27.4,86.5,4.1,0.0,ninguno,No,No,0.0,,0.0,No aplica
+79564,Hombre,28,25-29 años,Normal,20.9,76.8,4.9,0.0,ninguno,No,No,0.0,,0.0,No aplica
+79566,Mujer,18,18-24 años,Normal,21.0,74.0,4.6,0.0,ninguno,No,No,0.0,,0.0,No aplica
+79568,Mujer,19,18-24 años,Obesidad,32.5,87.3,4.3,0.0,ninguno,No,No,0.0,,0.0,No aplica
+79570,Mujer,30,30-35 años,Normal,22.8,77.6,3.4,0.0,ninguno,No,No,0.0,,0.0,No aplica
+79585,Hombre,32,30-35 años,Sobrepeso,26.0,83.6,6.0,0.0,ninguno,No,No,0.0,,0.0,No aplica
+79588,Hombre,18,18-24 años,Sobrepeso,26.4,94.1,4.8,0.0,ninguno,No,No,0.0,,0.0,No aplica
+79589,Mujer,24,18-24 años,Obesidad,40.8,105.6,4.7,2.0,"cintura, HDL bajo",No,No,0.0,,0.0,No aplica
+79590,Mujer,20,18-24 años,Normal,16.1,65.1,4.0,0.0,ninguno,No,No,0.0,,0.0,No aplica
+79591,Mujer,23,18-24 años,Normal,23.8,77.6,4.0,0.0,ninguno,No,No,0.0,,0.0,No aplica
+79603,Mujer,34,30-35 años,Normal,22.4,80.0,4.5,0.0,ninguno,No,No,0.0,,0.0,No aplica
+79605,Mujer,22,18-24 años,Obesidad,31.2,107.2,4.1,3.0,"cintura, triglicéridos, glucosa",Sí,No,1.0,1.0,0.0,"No, sin diagnóstico previo"
+79640,Mujer,30,30-35 años,Sobrepeso,25.1,90.8,3.8,1.0,cintura,No,No,0.0,,0.0,No aplica
+79641,Hombre,31,30-35 años,Sin dato,,,5.0,,"HDL bajo, presión, glucosa",No evaluable,No,,,0.0,No aplica
+79645,Mujer,23,18-24 años,Obesidad,37.6,119.4,5.0,3.0,"cintura, HDL bajo, glucosa",Sí,No,1.0,0.0,0.0,"Sí, tenía algún diagnóstico"
+79646,Hombre,25,25-29 años,Sobrepeso,26.9,85.3,5.7,0.0,ninguno,No,No,0.0,,0.0,No aplica
+79662,Hombre,33,30-35 años,Sobrepeso,25.4,94.2,3.8,0.0,ninguno,No,No,0.0,,0.0,No aplica
+79669,Mujer,32,30-35 años,Obesidad,31.5,94.0,3.8,2.0,"cintura, glucosa",No,No,0.0,,0.0,No aplica
+79671,Hombre,31,30-35 años,Sobrepeso,26.3,87.4,5.7,0.0,ninguno,No,No,0.0,,0.0,No aplica
+79678,Hombre,32,30-35 años,Sobrepeso,26.9,89.4,8.7,0.0,ninguno,No,Sí,0.0,,1.0,No aplica
+79686,Mujer,18,18-24 años,Normal,23.7,79.5,2.9,0.0,ninguno,No,No,0.0,,0.0,No aplica
+79697,Mujer,33,30-35 años,Sobrepeso,27.6,97.1,3.2,2.0,"cintura, HDL bajo",No,No,0.0,,0.0,No aplica
+79701,Hombre,18,18-24 años,Sobrepeso,25.1,88.5,6.2,0.0,ninguno,No,No,0.0,,0.0,No aplica
+79720,Hombre,25,25-29 años,Normal,23.4,84.3,6.5,0.0,ninguno,No,No,0.0,,0.0,No aplica
+79733,Mujer,23,18-24 años,Normal,23.9,85.0,3.9,0.0,ninguno,No,No,0.0,,0.0,No aplica
+79739,Mujer,26,25-29 años,Normal,20.6,74.5,4.3,1.0,triglicéridos,No,No,0.0,,0.0,No aplica
+79741,Hombre,22,18-24 años,Obesidad,33.4,112.3,9.1,2.0,"cintura, HDL bajo",No,Sí,0.0,,1.0,No aplica
+79752,Hombre,18,18-24 años,Obesidad,32.9,95.1,6.7,1.0,triglicéridos,No,No,0.0,,0.0,No aplica
+79794,Hombre,29,25-29 años,Obesidad,32.9,110.2,6.0,3.0,"cintura, triglicéridos, HDL bajo",Sí,No,1.0,1.0,0.0,"No, sin diagnóstico previo"
+79798,Mujer,26,25-29 años,Normal,24.3,77.4,4.5,0.0,ninguno,No,No,0.0,,0.0,No aplica
+79799,Hombre,33,30-35 años,Normal,19.9,78.9,6.3,0.0,ninguno,No,No,0.0,,0.0,No aplica
+79804,Mujer,20,18-24 años,Normal,24.3,86.8,5.0,1.0,HDL bajo,No,No,0.0,,0.0,No aplica
+79806,Mujer,19,18-24 años,Obesidad,30.5,86.7,5.4,1.0,triglicéridos,No,No,0.0,,0.0,No aplica
+79808,Mujer,33,30-35 años,Obesidad,32.2,94.9,4.3,1.0,cintura,No,No,0.0,,0.0,No aplica
+79820,Mujer,18,18-24 años,Sobrepeso,28.8,87.8,4.8,2.0,"triglicéridos, HDL bajo",No,No,0.0,,0.0,No aplica
+79848,Hombre,26,25-29 años,Sobrepeso,25.9,87.2,6.8,0.0,ninguno,No,No,0.0,,0.0,No aplica
+79868,Hombre,30,30-35 años,Obesidad,39.2,125.3,7.5,4.0,"cintura, triglicéridos, HDL bajo, presión",Sí,Sí,1.0,1.0,1.0,"No, sin diagnóstico previo"
+79883,Mujer,35,30-35 años,Sobrepeso,26.2,94.0,3.1,1.0,cintura,No,No,0.0,,0.0,No aplica
+79895,Hombre,19,18-24 años,Obesidad,41.2,122.4,5.8,4.0,"cintura, HDL bajo, presión, glucosa",Sí,No,1.0,1.0,0.0,"No, sin diagnóstico previo"
+79896,Hombre,22,18-24 años,Obesidad,32.8,116.3,6.0,3.0,"cintura, HDL bajo, presión",Sí,No,1.0,1.0,0.0,"No, sin diagnóstico previo"
+79898,Hombre,29,25-29 años,Obesidad,30.0,104.8,6.6,2.0,"cintura, glucosa",No,No,0.0,,0.0,No aplica
+79901,Hombre,23,18-24 años,Obesidad,31.3,107.2,6.7,2.0,"cintura, triglicéridos",No,No,0.0,,0.0,No aplica
+79902,Mujer,30,30-35 años,Normal,24.5,80.2,4.2,0.0,ninguno,No,No,0.0,,0.0,No aplica
+79912,Mujer,20,18-24 años,Normal,21.5,73.0,2.2,0.0,ninguno,No,No,0.0,,0.0,No aplica
+79926,Mujer,28,25-29 años,Normal,23.9,90.7,4.0,1.0,cintura,No,No,0.0,,0.0,No aplica
+79938,Hombre,31,30-35 años,Sobrepeso,29.4,93.1,6.0,1.0,HDL bajo,No,No,0.0,,0.0,No aplica
+79940,Mujer,26,25-29 años,Sobrepeso,28.6,94.5,3.6,2.0,"cintura, triglicéridos",No,No,0.0,,0.0,No aplica
+79959,Mujer,19,18-24 años,Obesidad,31.0,101.0,5.3,1.0,cintura,No,No,0.0,,0.0,No aplica
+79960,Mujer,26,25-29 años,Normal,23.9,87.9,3.1,0.0,ninguno,No,No,0.0,,0.0,No aplica
+79962,Hombre,24,18-24 años,Sobrepeso,25.1,84.5,5.6,0.0,ninguno,No,No,0.0,,0.0,No aplica
+79972,Mujer,34,30-35 años,Sobrepeso,29.4,97.2,5.0,2.0,"cintura, triglicéridos",No,No,0.0,,0.0,No aplica
+79992,Hombre,33,30-35 años,Sobrepeso,25.8,95.7,5.8,0.0,ninguno,No,No,0.0,,0.0,No aplica
+79996,Hombre,22,18-24 años,Obesidad,43.0,129.7,8.3,4.0,"cintura, triglicéridos, HDL bajo, presión",Sí,Sí,1.0,1.0,1.0,"No, sin diagnóstico previo"
+80000,Mujer,26,25-29 años,Normal,20.1,75.9,5.0,0.0,ninguno,No,No,0.0,,0.0,No aplica
+80022,Hombre,21,18-24 años,Normal,20.2,76.0,4.5,1.0,glucosa,No,No,0.0,,0.0,No aplica
+80025,Mujer,25,25-29 años,Sobrepeso,25.6,92.0,5.5,3.0,"cintura, triglicéridos, HDL bajo",Sí,No,1.0,1.0,0.0,"No, sin diagnóstico previo"
+80027,Mujer,32,30-35 años,Normal,24.7,90.2,5.8,2.0,"cintura, triglicéridos",No,Sí,0.0,,1.0,No aplica
+80031,Hombre,33,30-35 años,Sobrepeso,26.4,93.9,5.9,1.0,presión,No,No,0.0,,0.0,No aplica
+80057,Mujer,34,30-35 años,Normal,22.5,73.6,4.7,1.0,HDL bajo,No,No,0.0,,0.0,No aplica
+80062,Hombre,34,30-35 años,Obesidad,31.7,113.2,5.8,3.0,"cintura, triglicéridos, HDL bajo",Sí,No,1.0,1.0,0.0,"No, sin diagnóstico previo"
+80079,Hombre,26,25-29 años,Obesidad,36.2,116.8,8.4,2.0,"cintura, triglicéridos",No,Sí,0.0,,1.0,No aplica
+80088,Hombre,22,18-24 años,Sobrepeso,28.3,94.7,5.4,1.0,triglicéridos,No,No,0.0,,0.0,No aplica
+80095,Mujer,24,18-24 años,Normal,19.7,72.1,4.6,0.0,ninguno,No,No,0.0,,0.0,No aplica
+80100,Hombre,30,30-35 años,Obesidad,43.4,138.4,7.6,3.0,"cintura, triglicéridos, HDL bajo",Sí,Sí,1.0,1.0,1.0,"No, sin diagnóstico previo"
+80101,Hombre,29,25-29 años,Obesidad,32.2,103.8,6.2,2.0,"cintura, triglicéridos",No,No,0.0,,0.0,No aplica
+80106,Mujer,19,18-24 años,Obesidad,36.1,105.6,5.2,3.0,"cintura, triglicéridos, HDL bajo",Sí,No,1.0,1.0,0.0,"No, sin diagnóstico previo"
+80109,Mujer,33,30-35 años,Obesidad,49.6,130.3,4.2,1.0,cintura,No,No,0.0,,0.0,No aplica
+80110,Mujer,20,18-24 años,Normal,18.7,72.1,2.4,1.0,triglicéridos,No,No,0.0,,0.0,No aplica
+80111,Mujer,18,18-24 años,Sobrepeso,29.5,101.7,7.0,1.0,cintura,No,Sí,0.0,,1.0,No aplica
+80128,Mujer,22,18-24 años,Obesidad,34.3,112.0,5.8,3.0,"cintura, triglicéridos, HDL bajo",Sí,Sí,1.0,0.0,1.0,"Sí, tenía algún diagnóstico"
+80131,Mujer,34,30-35 años,Normal,19.7,70.2,3.4,2.0,"triglicéridos, HDL bajo",No,No,0.0,,0.0,No aplica
+80134,Mujer,18,18-24 años,Obesidad,30.3,93.2,5.5,2.0,"cintura, HDL bajo",No,No,0.0,,0.0,No aplica
+80146,Hombre,33,30-35 años,Sobrepeso,28.2,110.1,6.3,2.0,"cintura, HDL bajo",No,No,0.0,,0.0,No aplica
+80154,Mujer,35,30-35 años,Obesidad,30.3,104.7,3.5,3.0,"cintura, HDL bajo, glucosa",Sí,No,1.0,1.0,0.0,"No, sin diagnóstico previo"
+80158,Hombre,35,30-35 años,Obesidad,37.2,125.1,8.3,3.0,"cintura, triglicéridos, glucosa",Sí,Sí,1.0,0.0,1.0,"Sí, tenía algún diagnóstico"
+80164,Hombre,19,18-24 años,Sobrepeso,29.6,84.0,4.3,1.0,presión,No,No,0.0,,0.0,No aplica
+80189,Hombre,18,18-24 años,Normal,17.5,72.6,5.9,,ninguno,No evaluable,No,,,0.0,No aplica
+80190,Mujer,33,30-35 años,Obesidad,34.4,96.0,5.1,2.0,"cintura, presión",No,No,0.0,,0.0,No aplica
+80194,Mujer,18,18-24 años,Normal,21.2,72.1,6.3,2.0,"triglicéridos, HDL bajo",No,Sí,0.0,,1.0,No aplica
+80226,Hombre,30,30-35 años,Normal,22.0,89.8,5.7,0.0,ninguno,No,No,0.0,,0.0,No aplica
+80233,Hombre,21,18-24 años,Normal,24.8,78.6,4.4,0.0,ninguno,No,No,0.0,,0.0,No aplica
+80236,Mujer,22,18-24 años,Sobrepeso,25.0,84.1,4.1,0.0,ninguno,No,No,0.0,,0.0,No aplica
+80240,Mujer,33,30-35 años,Normal,23.2,85.0,4.7,0.0,ninguno,No,No,0.0,,0.0,No aplica
+80244,Mujer,35,30-35 años,Obesidad,30.6,105.3,3.6,2.0,"cintura, glucosa",No,No,0.0,,0.0,No aplica
+80251,Mujer,27,25-29 años,Sobrepeso,25.7,94.1,3.7,2.0,"cintura, glucosa",No,No,0.0,,0.0,No aplica
+80257,Mujer,31,30-35 años,Obesidad,30.4,92.0,4.5,3.0,"cintura, triglicéridos, HDL bajo",Sí,No,1.0,0.0,0.0,"Sí, tenía algún diagnóstico"
+80258,Hombre,19,18-24 años,Normal,21.1,70.7,5.2,0.0,ninguno,No,No,0.0,,0.0,No aplica
+80259,Hombre,27,25-29 años,Sobrepeso,25.4,81.8,4.8,0.0,ninguno,No,No,0.0,,0.0,No aplica
+80264,Mujer,21,18-24 años,Sobrepeso,25.9,86.2,3.5,0.0,ninguno,No,No,0.0,,0.0,No aplica
+80269,Hombre,25,25-29 años,Normal,24.1,80.0,4.7,0.0,ninguno,No,No,0.0,,0.0,No aplica
+80275,Hombre,24,18-24 años,Normal,17.2,67.7,5.9,0.0,ninguno,No,No,0.0,,0.0,No aplica
+80280,Mujer,31,30-35 años,Sobrepeso,26.5,87.2,4.2,1.0,HDL bajo,No,No,0.0,,0.0,No aplica
+80287,Mujer,21,18-24 años,Sobrepeso,29.3,99.4,5.0,1.0,cintura,No,No,0.0,,0.0,No aplica
+80291,Hombre,31,30-35 años,Normal,24.4,86.3,4.0,1.0,HDL bajo,No,No,0.0,,0.0,No aplica
+80301,Hombre,24,18-24 años,Normal,20.4,74.9,5.8,2.0,"triglicéridos, HDL bajo",No,No,0.0,,0.0,No aplica
+80303,Hombre,33,30-35 años,Sobrepeso,28.4,103.7,5.9,4.0,"cintura, triglicéridos, HDL bajo, presión",Sí,No,1.0,0.0,0.0,"Sí, tenía algún diagnóstico"
+80305,Mujer,32,30-35 años,Obesidad,44.8,131.1,5.4,4.0,"cintura, triglicéridos, HDL bajo, glucosa",Sí,No,1.0,0.0,0.0,"Sí, tenía algún diagnóstico"
+80327,Hombre,27,25-29 años,Sobrepeso,26.0,89.7,5.4,1.0,triglicéridos,No,No,0.0,,0.0,No aplica
+80331,Hombre,27,25-29 años,Normal,24.3,83.3,5.1,1.0,triglicéridos,No,No,0.0,,0.0,No aplica
+80332,Hombre,24,18-24 años,Normal,22.7,87.8,5.6,1.0,glucosa,No,No,0.0,,0.0,No aplica
+80335,Hombre,28,25-29 años,Sobrepeso,28.4,98.5,4.5,1.0,triglicéridos,No,No,0.0,,0.0,No aplica
+80336,Mujer,24,18-24 años,Sobrepeso,25.1,85.7,5.1,0.0,ninguno,No,No,0.0,,0.0,No aplica
+80344,Mujer,21,18-24 años,Normal,24.1,80.2,7.2,0.0,ninguno,No,Sí,0.0,,1.0,No aplica
+80349,Mujer,28,25-29 años,Sobrepeso,26.6,88.1,6.5,2.0,"cintura, presión",No,Sí,0.0,,1.0,No aplica
+80350,Mujer,31,30-35 años,Sobrepeso,26.8,89.3,3.3,3.0,"cintura, HDL bajo, glucosa",Sí,No,1.0,0.0,0.0,"Sí, tenía algún diagnóstico"
+80352,Hombre,20,18-24 años,Normal,24.4,84.5,7.1,1.0,glucosa,No,Sí,0.0,,1.0,No aplica
+80365,Mujer,34,30-35 años,Normal,20.7,77.3,5.8,0.0,ninguno,No,Sí,0.0,,1.0,No aplica
+80369,Mujer,31,30-35 años,Normal,18.4,70.5,4.1,0.0,ninguno,No,No,0.0,,0.0,No aplica
+80396,Hombre,31,30-35 años,Sobrepeso,29.6,95.7,7.2,2.0,"triglicéridos, glucosa",No,Sí,0.0,,1.0,No aplica
+80405,Mujer,24,18-24 años,Normal,22.3,92.0,3.8,2.0,"cintura, triglicéridos",No,No,0.0,,0.0,No aplica
+80414,Hombre,24,18-24 años,Obesidad,34.5,122.8,6.8,2.0,"cintura, triglicéridos",No,No,0.0,,0.0,No aplica
+80445,Hombre,22,18-24 años,Sobrepeso,27.1,84.6,5.5,1.0,glucosa,No,No,0.0,,0.0,No aplica
+80448,Mujer,26,25-29 años,Normal,21.3,74.2,3.9,0.0,ninguno,No,No,0.0,,0.0,No aplica
+80458,Mujer,24,18-24 años,Sobrepeso,26.4,88.4,5.7,1.0,cintura,No,No,0.0,,0.0,No aplica
+80474,Mujer,20,18-24 años,Normal,23.0,77.8,5.3,0.0,ninguno,No,No,0.0,,0.0,No aplica
+80489,Mujer,20,18-24 años,Normal,22.1,83.4,4.5,0.0,ninguno,No,No,0.0,,0.0,No aplica
+80492,Mujer,35,30-35 años,Normal,18.8,72.5,4.6,0.0,ninguno,No,No,0.0,,0.0,No aplica
+80501,Hombre,18,18-24 años,Normal,22.3,81.8,6.6,0.0,ninguno,No,No,0.0,,0.0,No aplica
+80507,Mujer,32,30-35 años,Obesidad,36.0,105.7,2.9,3.0,"cintura, triglicéridos, HDL bajo",Sí,No,1.0,0.0,0.0,"Sí, tenía algún diagnóstico"
+80535,Mujer,25,25-29 años,Sobrepeso,27.3,101.0,4.6,1.0,cintura,No,No,0.0,,0.0,No aplica
+80540,Mujer,18,18-24 años,Sobrepeso,26.7,83.6,2.8,0.0,ninguno,No,No,0.0,,0.0,No aplica
+80559,Hombre,26,25-29 años,Normal,23.7,88.9,6.9,0.0,ninguno,No,No,0.0,,0.0,No aplica
+80560,Hombre,25,25-29 años,Obesidad,35.7,112.9,6.0,2.0,"cintura, triglicéridos",No,No,0.0,,0.0,No aplica
+80583,Mujer,24,18-24 años,Obesidad,39.6,119.6,5.0,4.0,"cintura, HDL bajo, presión, glucosa",Sí,No,1.0,0.0,0.0,"Sí, tenía algún diagnóstico"
+80592,Hombre,20,18-24 años,Obesidad,30.8,100.6,6.0,1.0,glucosa,No,No,0.0,,0.0,No aplica
+80596,Hombre,32,30-35 años,Sobrepeso,29.9,113.2,7.3,2.0,"cintura, triglicéridos",No,Sí,0.0,,1.0,No aplica
+80619,Hombre,33,30-35 años,Obesidad,35.0,119.0,6.9,3.0,"cintura, HDL bajo, presión",Sí,No,1.0,1.0,0.0,"No, sin diagnóstico previo"
+80620,Hombre,22,18-24 años,Normal,20.3,73.4,3.9,0.0,ninguno,No,No,0.0,,0.0,No aplica
+80627,Hombre,18,18-24 años,Normal,21.9,80.6,7.7,1.0,HDL bajo,No,Sí,0.0,,1.0,No aplica
+80633,Mujer,30,30-35 años,Sobrepeso,27.0,83.5,4.0,1.0,HDL bajo,No,No,0.0,,0.0,No aplica
+80639,Hombre,32,30-35 años,Normal,23.5,86.8,5.8,1.0,glucosa,No,No,0.0,,0.0,No aplica
+80645,Mujer,22,18-24 años,Obesidad,30.5,108.5,5.4,1.0,cintura,No,No,0.0,,0.0,No aplica
+80646,Hombre,34,30-35 años,Sobrepeso,29.3,102.2,6.8,2.0,"cintura, triglicéridos",No,No,0.0,,0.0,No aplica
+80649,Hombre,19,18-24 años,Normal,22.9,80.0,4.3,1.0,glucosa,No,No,0.0,,0.0,No aplica
+80654,Mujer,30,30-35 años,Sobrepeso,29.6,90.0,3.5,2.0,"cintura, triglicéridos",No,No,0.0,,0.0,No aplica
+80656,Mujer,33,30-35 años,Obesidad,42.6,118.5,6.0,4.0,"cintura, triglicéridos, HDL bajo, presión",Sí,Sí,1.0,1.0,1.0,"No, sin diagnóstico previo"
+80659,Mujer,22,18-24 años,Normal,20.6,77.3,3.2,1.0,HDL bajo,No,No,0.0,,0.0,No aplica
+80667,Mujer,33,30-35 años,Obesidad,30.1,89.0,4.4,1.0,cintura,No,No,0.0,,0.0,No aplica
+80671,Mujer,19,18-24 años,Obesidad,31.4,98.1,3.6,2.0,"cintura, glucosa",No,No,0.0,,0.0,No aplica
+80685,Mujer,33,30-35 años,Sobrepeso,25.1,91.9,6.0,1.0,cintura,No,Sí,0.0,,1.0,No aplica
+80688,Mujer,26,25-29 años,Sobrepeso,28.6,90.2,4.2,2.0,"cintura, HDL bajo",No,No,0.0,,0.0,No aplica
+80693,Hombre,30,30-35 años,Normal,21.8,77.8,3.6,0.0,ninguno,No,No,0.0,,0.0,No aplica
+80694,Mujer,34,30-35 años,Obesidad,32.0,108.0,5.7,2.0,"cintura, HDL bajo",No,No,0.0,,0.0,No aplica
+80701,Mujer,31,30-35 años,Normal,22.6,80.1,3.1,0.0,ninguno,No,No,0.0,,0.0,No aplica
+80729,Hombre,31,30-35 años,Obesidad,30.7,113.2,7.2,3.0,"cintura, triglicéridos, glucosa",Sí,Sí,1.0,1.0,1.0,"No, sin diagnóstico previo"
+80731,Mujer,32,30-35 años,Sobrepeso,25.8,93.2,3.6,1.0,cintura,No,No,0.0,,0.0,No aplica
+80737,Mujer,19,18-24 años,Normal,18.3,75.2,2.9,0.0,ninguno,No,No,0.0,,0.0,No aplica
+80739,Mujer,30,30-35 años,Obesidad,33.6,104.8,5.0,4.0,"cintura, HDL bajo, presión, glucosa",Sí,No,1.0,0.0,0.0,"Sí, tenía algún diagnóstico"
+80755,Mujer,32,30-35 años,Normal,21.5,77.5,3.3,,ninguno,No evaluable,No,,,0.0,No aplica
+80756,Mujer,32,30-35 años,Sobrepeso,27.5,87.3,3.7,0.0,ninguno,No,No,0.0,,0.0,No aplica
+80775,Mujer,19,18-24 años,Obesidad,30.8,99.3,6.1,3.0,"cintura, triglicéridos, HDL bajo",Sí,Sí,1.0,1.0,1.0,"No, sin diagnóstico previo"
+80778,Hombre,32,30-35 años,Normal,24.2,86.7,5.3,0.0,ninguno,No,No,0.0,,0.0,No aplica
+80782,Mujer,29,25-29 años,Normal,22.5,75.2,3.3,1.0,HDL bajo,No,No,0.0,,0.0,No aplica
+80784,Hombre,18,18-24 años,Normal,23.8,81.8,5.0,0.0,ninguno,No,No,0.0,,0.0,No aplica
+80787,Mujer,34,30-35 años,Sobrepeso,28.6,92.0,6.0,2.0,"cintura, glucosa",No,Sí,0.0,,1.0,No aplica
+80788,Mujer,31,30-35 años,Normal,19.0,67.4,5.0,1.0,HDL bajo,No,No,0.0,,0.0,No aplica
+80795,Mujer,28,25-29 años,Normal,19.3,73.7,4.6,0.0,ninguno,No,No,0.0,,0.0,No aplica
+80798,Hombre,29,25-29 años,Sobrepeso,28.7,96.4,6.4,2.0,"triglicéridos, HDL bajo",No,No,0.0,,0.0,No aplica
+80812,Hombre,23,18-24 años,Sobrepeso,25.4,82.3,4.3,4.0,"triglicéridos, HDL bajo, presión, glucosa",Sí,No,1.0,1.0,0.0,"No, sin diagnóstico previo"
+80816,Mujer,31,30-35 años,Sobrepeso,26.0,97.1,4.9,1.0,cintura,No,No,0.0,,0.0,No aplica
+80825,Hombre,30,30-35 años,Sobrepeso,26.1,101.2,5.2,1.0,triglicéridos,No,No,0.0,,0.0,No aplica
+80826,Hombre,33,30-35 años,Obesidad,30.4,104.9,7.3,,"cintura, triglicéridos, HDL bajo",No evaluable,Sí,,,1.0,No aplica
+80849,Mujer,19,18-24 años,Normal,20.4,70.7,3.0,0.0,ninguno,No,No,0.0,,0.0,No aplica
+80851,Mujer,35,30-35 años,Obesidad,38.6,120.5,6.4,1.0,cintura,No,Sí,0.0,,1.0,No aplica
+80854,Mujer,27,25-29 años,Normal,23.4,85.2,4.6,0.0,ninguno,No,No,0.0,,0.0,No aplica
+80869,Hombre,18,18-24 años,Normal,22.9,77.5,5.1,0.0,ninguno,No,No,0.0,,0.0,No aplica
+80880,Hombre,28,25-29 años,Obesidad,54.2,155.3,5.2,3.0,"cintura, presión, glucosa",Sí,No,1.0,0.0,0.0,"Sí, tenía algún diagnóstico"
+80881,Mujer,30,30-35 años,Obesidad,37.3,117.4,4.0,4.0,"cintura, HDL bajo, presión, glucosa",Sí,No,1.0,0.0,0.0,"Sí, tenía algún diagnóstico"
+80903,Mujer,30,30-35 años,Obesidad,35.6,93.0,5.0,1.0,cintura,No,No,0.0,,0.0,No aplica
+80912,Mujer,28,25-29 años,Sobrepeso,26.0,86.4,5.8,2.0,"triglicéridos, HDL bajo",No,Sí,0.0,,1.0,No aplica
+80917,Hombre,34,30-35 años,Obesidad,43.3,126.7,3.8,4.0,"cintura, triglicéridos, HDL bajo, presión",Sí,No,1.0,1.0,0.0,"No, sin diagnóstico previo"
+80920,Mujer,28,25-29 años,Obesidad,43.8,126.9,4.9,5.0,"cintura, triglicéridos, HDL bajo, presión, glucosa",Sí,No,1.0,0.0,0.0,"Sí, tenía algún diagnóstico"
+80923,Hombre,28,25-29 años,Sobrepeso,27.7,100.0,7.8,2.0,"triglicéridos, HDL bajo",No,Sí,0.0,,1.0,No aplica
+80938,Mujer,19,18-24 años,Obesidad,42.8,128.2,5.1,4.0,"cintura, triglicéridos, HDL bajo, glucosa",Sí,No,1.0,0.0,0.0,"Sí, tenía algún diagnóstico"
+80956,Mujer,18,18-24 años,Normal,19.7,67.1,4.7,1.0,HDL bajo,No,No,0.0,,0.0,No aplica
+80964,Mujer,19,18-24 años,Normal,21.8,,4.1,,ninguno,No evaluable,No,,,0.0,No aplica
+80966,Mujer,27,25-29 años,Obesidad,34.9,103.7,6.5,2.0,"cintura, glucosa",No,Sí,0.0,,1.0,No aplica
+80975,Mujer,26,25-29 años,Obesidad,43.2,126.3,4.1,2.0,"cintura, HDL bajo",No,No,0.0,,0.0,No aplica
+80981,Mujer,25,25-29 años,Normal,19.0,72.0,2.3,0.0,ninguno,No,No,0.0,,0.0,No aplica
+80990,Hombre,35,30-35 años,Sobrepeso,29.1,102.5,6.9,3.0,"cintura, triglicéridos, HDL bajo",Sí,No,1.0,1.0,0.0,"No, sin diagnóstico previo"
+80997,Hombre,26,25-29 años,Normal,23.7,85.8,5.3,1.0,glucosa,No,No,0.0,,0.0,No aplica
+81012,Hombre,34,30-35 años,Normal,20.7,83.1,5.2,1.0,triglicéridos,No,No,0.0,,0.0,No aplica
+81014,Hombre,27,25-29 años,Sobrepeso,25.7,81.4,6.5,0.0,ninguno,No,No,0.0,,0.0,No aplica
+81015,Mujer,20,18-24 años,Normal,22.1,74.0,5.2,0.0,ninguno,No,No,0.0,,0.0,No aplica
+81034,Hombre,34,30-35 años,Obesidad,32.0,107.3,6.5,3.0,"cintura, triglicéridos, HDL bajo",Sí,No,1.0,1.0,0.0,"No, sin diagnóstico previo"
+81043,Mujer,18,18-24 años,Normal,18.6,70.8,4.2,0.0,ninguno,No,No,0.0,,0.0,No aplica
+81070,Hombre,31,30-35 años,Sobrepeso,28.2,96.4,5.0,3.0,"triglicéridos, HDL bajo, glucosa",Sí,No,1.0,1.0,0.0,"No, sin diagnóstico previo"
+81074,Mujer,19,18-24 años,Sobrepeso,27.0,91.2,5.8,3.0,"cintura, triglicéridos, HDL bajo",Sí,Sí,1.0,1.0,1.0,"No, sin diagnóstico previo"
+81076,Mujer,18,18-24 años,Normal,20.6,71.3,5.0,0.0,ninguno,No,No,0.0,,0.0,No aplica
+81084,Mujer,26,25-29 años,Sobrepeso,27.2,84.6,4.2,0.0,ninguno,No,No,0.0,,0.0,No aplica
+81092,Hombre,29,25-29 años,Obesidad,34.2,107.5,6.0,1.0,cintura,No,No,0.0,,0.0,No aplica
+81096,Mujer,24,18-24 años,Obesidad,36.8,120.5,4.8,3.0,"cintura, triglicéridos, HDL bajo",Sí,No,1.0,1.0,0.0,"No, sin diagnóstico previo"
+81097,Mujer,21,18-24 años,Normal,23.0,82.4,4.5,0.0,ninguno,No,No,0.0,,0.0,No aplica
+81117,Hombre,19,18-24 años,Obesidad,34.2,115.5,5.6,2.0,"cintura, presión",No,No,0.0,,0.0,No aplica
+81139,Hombre,23,18-24 años,Obesidad,33.5,109.1,6.2,3.0,"cintura, triglicéridos, HDL bajo",Sí,No,1.0,1.0,0.0,"No, sin diagnóstico previo"
+81152,Mujer,34,30-35 años,Obesidad,33.8,119.0,5.2,2.0,"cintura, triglicéridos",No,No,0.0,,0.0,No aplica
+81153,Mujer,30,30-35 años,Normal,20.6,79.2,6.9,1.0,HDL bajo,No,Sí,0.0,,1.0,No aplica
+81160,Hombre,23,18-24 años,Obesidad,47.1,144.5,6.5,2.0,"cintura, presión",No,No,0.0,,0.0,No aplica
+81168,Mujer,28,25-29 años,Normal,19.0,69.6,3.0,0.0,ninguno,No,No,0.0,,0.0,No aplica
+81169,Hombre,34,30-35 años,Obesidad,33.5,113.2,5.2,1.0,cintura,No,No,0.0,,0.0,No aplica
+81174,Mujer,31,30-35 años,Obesidad,50.5,149.4,7.1,3.0,"cintura, presión, glucosa",Sí,Sí,1.0,0.0,1.0,"Sí, tenía algún diagnóstico"
+81190,Mujer,23,18-24 años,Normal,21.9,71.6,2.8,0.0,ninguno,No,No,0.0,,0.0,No aplica
+81216,Mujer,30,30-35 años,Normal,18.7,76.0,4.6,0.0,ninguno,No,No,0.0,,0.0,No aplica
+81218,Hombre,34,30-35 años,Sobrepeso,27.4,96.5,6.4,1.0,HDL bajo,No,No,0.0,,0.0,No aplica
+81223,Mujer,21,18-24 años,Normal,23.5,83.2,4.6,2.0,"HDL bajo, presión",No,No,0.0,,0.0,No aplica
+81224,Mujer,18,18-24 años,Sobrepeso,27.2,81.9,4.6,0.0,ninguno,No,No,0.0,,0.0,No aplica
+81238,Mujer,21,18-24 años,Sobrepeso,26.2,84.4,5.1,1.0,glucosa,No,No,0.0,,0.0,No aplica
+81264,Mujer,21,18-24 años,Obesidad,37.1,108.9,4.4,2.0,"cintura, HDL bajo",No,No,0.0,,0.0,No aplica
+81290,Hombre,30,30-35 años,Sobrepeso,27.1,93.2,5.4,0.0,ninguno,No,No,0.0,,0.0,No aplica
+81303,Hombre,20,18-24 años,Sobrepeso,29.0,107.0,5.6,3.0,"cintura, presión, glucosa",Sí,No,1.0,1.0,0.0,"No, sin diagnóstico previo"
+81304,Mujer,20,18-24 años,Normal,24.6,87.7,5.5,1.0,HDL bajo,No,No,0.0,,0.0,No aplica
+81310,Hombre,19,18-24 años,Obesidad,38.7,118.5,6.9,1.0,cintura,No,No,0.0,,0.0,No aplica
+81313,Hombre,20,18-24 años,Obesidad,36.3,116.5,7.7,2.0,"cintura, triglicéridos",No,Sí,0.0,,1.0,No aplica
+81320,Hombre,28,25-29 años,Normal,20.1,80.0,4.0,1.0,glucosa,No,No,0.0,,0.0,No aplica
+81328,Hombre,18,18-24 años,Normal,24.2,87.5,6.0,0.0,ninguno,No,No,0.0,,0.0,No aplica
+81331,Mujer,27,25-29 años,Normal,20.5,66.4,3.6,0.0,ninguno,No,No,0.0,,0.0,No aplica
+81348,Hombre,21,18-24 años,Normal,22.4,81.7,5.3,2.0,"triglicéridos, HDL bajo",No,No,0.0,,0.0,No aplica
+81362,Hombre,21,18-24 años,Normal,20.8,74.8,4.9,0.0,ninguno,No,No,0.0,,0.0,No aplica
+81372,Mujer,31,30-35 años,Normal,24.2,89.4,4.1,1.0,cintura,No,No,0.0,,0.0,No aplica
+81395,Hombre,23,18-24 años,Sobrepeso,28.5,96.4,6.5,0.0,ninguno,No,No,0.0,,0.0,No aplica
+81408,Mujer,30,30-35 años,Normal,23.2,76.6,5.7,1.0,HDL bajo,No,No,0.0,,0.0,No aplica
+81435,Hombre,18,18-24 años,Normal,19.9,78.0,4.5,0.0,ninguno,No,No,0.0,,0.0,No aplica
+81441,Hombre,34,30-35 años,Sobrepeso,25.1,92.6,6.4,2.0,"triglicéridos, presión",No,No,0.0,,0.0,No aplica
+81442,Mujer,32,30-35 años,Sobrepeso,29.2,91.2,4.1,,"cintura, triglicéridos",No evaluable,No,,,0.0,No aplica
+81481,Mujer,28,25-29 años,Sobrepeso,28.6,94.2,4.5,3.0,"cintura, triglicéridos, HDL bajo",Sí,No,1.0,1.0,0.0,"No, sin diagnóstico previo"
+81484,Hombre,32,30-35 años,Obesidad,52.6,,7.5,,"triglicéridos, HDL bajo, presión, glucosa",No evaluable,Sí,,,1.0,No aplica
+81491,Hombre,32,30-35 años,Obesidad,32.3,111.2,5.2,3.0,"cintura, triglicéridos, glucosa",Sí,No,1.0,0.0,0.0,"Sí, tenía algún diagnóstico"
+81506,Mujer,22,18-24 años,Obesidad,46.4,126.6,7.0,3.0,"cintura, triglicéridos, HDL bajo",Sí,Sí,1.0,1.0,1.0,"No, sin diagnóstico previo"
+81514,Hombre,23,18-24 años,Sobrepeso,29.8,105.7,5.4,1.0,cintura,No,No,0.0,,0.0,No aplica
+81527,Hombre,35,30-35 años,Normal,21.0,73.7,5.0,2.0,"triglicéridos, presión",No,No,0.0,,0.0,No aplica
+81556,Mujer,25,25-29 años,Normal,24.4,85.9,5.6,0.0,ninguno,No,No,0.0,,0.0,No aplica
+81563,Hombre,25,25-29 años,Normal,24.0,84.2,6.6,2.0,"triglicéridos, glucosa",No,No,0.0,,0.0,No aplica
+81574,Hombre,34,30-35 años,Sobrepeso,28.8,95.7,6.6,2.0,"triglicéridos, HDL bajo",No,No,0.0,,0.0,No aplica
+81583,Mujer,18,18-24 años,Normal,21.8,77.8,4.6,2.0,"triglicéridos, HDL bajo",No,No,0.0,,0.0,No aplica
+81590,Hombre,28,25-29 años,Obesidad,35.2,114.4,7.3,2.0,"cintura, triglicéridos",No,Sí,0.0,,1.0,No aplica
+81596,Hombre,35,30-35 años,Sobrepeso,28.9,109.9,7.3,2.0,"cintura, HDL bajo",No,Sí,0.0,,1.0,No aplica
+81604,Mujer,29,25-29 años,Sobrepeso,25.1,93.8,4.6,2.0,"cintura, HDL bajo",No,No,0.0,,0.0,No aplica
+81607,Mujer,29,25-29 años,Obesidad,47.1,119.7,5.3,4.0,"cintura, triglicéridos, HDL bajo, presión",Sí,No,1.0,0.0,0.0,"Sí, tenía algún diagnóstico"
+81608,Mujer,33,30-35 años,Normal,21.2,75.0,4.8,0.0,ninguno,No,No,0.0,,0.0,No aplica
+81614,Hombre,21,18-24 años,Normal,19.4,75.7,5.1,0.0,ninguno,No,No,0.0,,0.0,No aplica
+81618,Mujer,19,18-24 años,Normal,20.1,73.5,4.8,0.0,ninguno,No,No,0.0,,0.0,No aplica
+81619,Mujer,18,18-24 años,Normal,15.6,64.3,2.6,0.0,ninguno,No,No,0.0,,0.0,No aplica
+81620,Hombre,26,25-29 años,Normal,21.0,78.9,4.8,0.0,ninguno,No,No,0.0,,0.0,No aplica
+81627,Mujer,24,18-24 años,Normal,24.3,78.1,5.1,1.0,HDL bajo,No,No,0.0,,0.0,No aplica
+81649,Mujer,19,18-24 años,Sobrepeso,26.5,83.3,4.8,2.0,"triglicéridos, HDL bajo",No,No,0.0,,0.0,No aplica
+81667,Mujer,19,18-24 años,Normal,21.9,69.3,4.5,1.0,HDL bajo,No,No,0.0,,0.0,No aplica
+81689,Mujer,18,18-24 años,Obesidad,43.5,122.5,4.9,2.0,"cintura, HDL bajo",No,No,0.0,,0.0,No aplica
+81697,Mujer,25,25-29 años,Obesidad,32.2,101.2,4.7,3.0,"cintura, triglicéridos, HDL bajo",Sí,No,1.0,1.0,0.0,"No, sin diagnóstico previo"
+81698,Hombre,31,30-35 años,Sobrepeso,29.2,99.0,5.0,0.0,ninguno,No,No,0.0,,0.0,No aplica
+81699,Mujer,19,18-24 años,Normal,17.6,69.8,3.0,0.0,ninguno,No,No,0.0,,0.0,No aplica
+81700,Mujer,30,30-35 años,Normal,24.8,85.5,4.7,2.0,"triglicéridos, HDL bajo",No,No,0.0,,0.0,No aplica
+81707,Hombre,26,25-29 años,Sobrepeso,25.7,81.0,6.3,1.0,HDL bajo,No,No,0.0,,0.0,No aplica
+81711,Mujer,32,30-35 años,Obesidad,37.4,119.2,7.4,4.0,"cintura, triglicéridos, HDL bajo, glucosa",Sí,Sí,1.0,1.0,1.0,"No, sin diagnóstico previo"
+81717,Hombre,35,30-35 años,Obesidad,34.3,114.8,4.9,2.0,"cintura, glucosa",No,No,0.0,,0.0,No aplica
+81740,Hombre,21,18-24 años,Obesidad,36.5,115.5,9.7,2.0,"cintura, presión",No,Sí,0.0,,1.0,No aplica
+81748,Hombre,22,18-24 años,Normal,22.9,74.1,5.1,0.0,ninguno,No,No,0.0,,0.0,No aplica
+81753,Hombre,28,25-29 años,Normal,19.9,79.8,5.9,1.0,presión,No,No,0.0,,0.0,No aplica
+81762,Mujer,22,18-24 años,Obesidad,32.3,98.0,5.2,2.0,"cintura, HDL bajo",No,No,0.0,,0.0,No aplica
+81773,Hombre,20,18-24 años,Normal,24.4,76.8,4.9,0.0,ninguno,No,No,0.0,,0.0,No aplica
+81780,Hombre,22,18-24 años,Normal,23.0,83.7,5.8,0.0,ninguno,No,No,0.0,,0.0,No aplica
+81802,Hombre,30,30-35 años,Sobrepeso,26.2,90.2,5.4,1.0,glucosa,No,No,0.0,,0.0,No aplica
+81803,Hombre,18,18-24 años,Normal,19.8,73.9,7.0,1.0,glucosa,No,No,0.0,,0.0,No aplica
+81805,Mujer,21,18-24 años,Sobrepeso,26.4,106.5,4.8,2.0,"cintura, triglicéridos",No,No,0.0,,0.0,No aplica
+81806,Mujer,32,30-35 años,Normal,23.2,82.5,4.2,0.0,ninguno,No,No,0.0,,0.0,No aplica
+81819,Hombre,34,30-35 años,Sobrepeso,25.6,85.3,4.9,1.0,HDL bajo,No,No,0.0,,0.0,No aplica
+81843,Hombre,19,18-24 años,Normal,21.5,77.8,5.8,0.0,ninguno,No,No,0.0,,0.0,No aplica
+81846,Mujer,19,18-24 años,Normal,20.3,77.6,5.1,0.0,ninguno,No,No,0.0,,0.0,No aplica
+81855,Mujer,27,25-29 años,Obesidad,37.5,129.4,7.9,4.0,"cintura, triglicéridos, HDL bajo, glucosa",Sí,Sí,1.0,1.0,1.0,"No, sin diagnóstico previo"
+81858,Mujer,22,18-24 años,Sobrepeso,27.2,83.2,4.4,1.0,HDL bajo,No,No,0.0,,0.0,No aplica
+81860,Hombre,21,18-24 años,Obesidad,43.3,142.5,8.1,3.0,"cintura, triglicéridos, presión",Sí,Sí,1.0,1.0,1.0,"No, sin diagnóstico previo"
+81883,Hombre,19,18-24 años,Sobrepeso,29.1,94.8,6.4,0.0,ninguno,No,No,0.0,,0.0,No aplica
+81885,Mujer,30,30-35 años,Obesidad,34.9,115.2,4.0,3.0,"cintura, triglicéridos, presión",Sí,No,1.0,1.0,0.0,"No, sin diagnóstico previo"
+81889,Mujer,20,18-24 años,Normal,20.4,75.5,4.2,0.0,ninguno,No,No,0.0,,0.0,No aplica
+81894,Mujer,32,30-35 años,Obesidad,51.4,138.3,4.8,3.0,"cintura, HDL bajo, glucosa",Sí,No,1.0,1.0,0.0,"No, sin diagnóstico previo"
+81903,Hombre,30,30-35 años,Normal,23.8,84.0,10.1,2.0,"triglicéridos, glucosa",No,Sí,0.0,,1.0,No aplica
+81913,Mujer,18,18-24 años,Obesidad,31.1,100.0,4.3,2.0,"cintura, triglicéridos",No,No,0.0,,0.0,No aplica
+81930,Hombre,18,18-24 años,Obesidad,41.9,117.0,7.3,2.0,"cintura, triglicéridos",No,Sí,0.0,,1.0,No aplica
+81944,Mujer,32,30-35 años,Obesidad,33.7,105.6,5.9,3.0,"cintura, HDL bajo, glucosa",Sí,Sí,1.0,1.0,1.0,"No, sin diagnóstico previo"
+81955,Hombre,26,25-29 años,Sobrepeso,25.4,89.8,5.7,0.0,ninguno,No,No,0.0,,0.0,No aplica
+81956,Mujer,35,30-35 años,Obesidad,36.2,104.3,3.2,1.0,cintura,No,No,0.0,,0.0,No aplica
+81966,Mujer,31,30-35 años,Obesidad,35.1,107.2,5.9,4.0,"cintura, HDL bajo, presión, glucosa",Sí,Sí,1.0,0.0,1.0,"Sí, tenía algún diagnóstico"
+81967,Mujer,30,30-35 años,Sobrepeso,27.8,92.6,3.8,2.0,"cintura, glucosa",No,No,0.0,,0.0,No aplica
+81985,Hombre,21,18-24 años,Normal,20.7,73.5,4.4,0.0,ninguno,No,No,0.0,,0.0,No aplica
+82002,Mujer,28,25-29 años,Sobrepeso,27.0,91.0,4.1,2.0,"cintura, HDL bajo",No,No,0.0,,0.0,No aplica
+82050,Mujer,19,18-24 años,Normal,21.3,83.3,4.4,0.0,ninguno,No,No,0.0,,0.0,No aplica
+82059,Mujer,29,25-29 años,Normal,21.2,71.6,4.2,1.0,HDL bajo,No,No,0.0,,0.0,No aplica
+82070,Hombre,18,18-24 años,Obesidad,33.6,105.2,7.0,3.0,"cintura, HDL bajo, glucosa",Sí,No,1.0,1.0,0.0,"No, sin diagnóstico previo"
+82086,Hombre,21,18-24 años,Sobrepeso,29.4,90.6,4.2,0.0,ninguno,No,No,0.0,,0.0,No aplica
+82109,Hombre,19,18-24 años,Sobrepeso,27.9,96.5,7.7,0.0,ninguno,No,Sí,0.0,,1.0,No aplica
+82110,Hombre,27,25-29 años,Normal,21.2,85.5,5.4,2.0,"triglicéridos, HDL bajo",No,No,0.0,,0.0,No aplica
+82111,Hombre,25,25-29 años,Normal,22.0,84.0,6.6,0.0,ninguno,No,No,0.0,,0.0,No aplica
+82124,Mujer,26,25-29 años,Normal,23.8,90.3,4.5,3.0,"cintura, triglicéridos, HDL bajo",Sí,No,1.0,1.0,0.0,"No, sin diagnóstico previo"
+82127,Mujer,30,30-35 años,Normal,22.4,86.6,4.7,1.0,HDL bajo,No,No,0.0,,0.0,No aplica
+82128,Hombre,22,18-24 años,Normal,23.5,79.5,4.4,1.0,triglicéridos,No,No,0.0,,0.0,No aplica
+82140,Hombre,24,18-24 años,Normal,20.4,73.5,3.6,1.0,HDL bajo,No,No,0.0,,0.0,No aplica
+82148,Hombre,35,30-35 años,Sobrepeso,25.5,85.4,7.1,2.0,"triglicéridos, HDL bajo",No,Sí,0.0,,1.0,No aplica
+82149,Hombre,25,25-29 años,Sobrepeso,29.9,96.9,6.3,2.0,"triglicéridos, HDL bajo",No,No,0.0,,0.0,No aplica
+82151,Hombre,23,18-24 años,Obesidad,31.9,98.5,6.9,1.0,triglicéridos,No,No,0.0,,0.0,No aplica
+82157,Hombre,25,25-29 años,Obesidad,38.0,129.8,6.7,4.0,"cintura, triglicéridos, HDL bajo, presión",Sí,No,1.0,1.0,0.0,"No, sin diagnóstico previo"
+82172,Hombre,29,25-29 años,Normal,24.6,83.3,3.9,3.0,"triglicéridos, HDL bajo, presión",Sí,No,1.0,1.0,0.0,"No, sin diagnóstico previo"
+82187,Mujer,18,18-24 años,Sobrepeso,25.1,85.5,4.5,0.0,ninguno,No,No,0.0,,0.0,No aplica
+82194,Mujer,23,18-24 años,Sobrepeso,27.9,89.0,4.5,2.0,"cintura, HDL bajo",No,No,0.0,,0.0,No aplica
+82199,Mujer,19,18-24 años,Obesidad,31.1,105.6,4.5,3.0,"cintura, triglicéridos, HDL bajo",Sí,No,1.0,1.0,0.0,"No, sin diagnóstico previo"
+82200,Hombre,31,30-35 años,Normal,23.5,90.0,5.4,0.0,ninguno,No,No,0.0,,0.0,No aplica
+82223,Hombre,27,25-29 años,Sobrepeso,28.8,101.0,5.6,0.0,ninguno,No,No,0.0,,0.0,No aplica
+82243,Hombre,32,30-35 años,Sobrepeso,26.1,86.6,6.1,0.0,ninguno,No,No,0.0,,0.0,No aplica
+82250,Hombre,19,18-24 años,Sobrepeso,27.7,93.0,6.8,0.0,ninguno,No,No,0.0,,0.0,No aplica
+82253,Mujer,19,18-24 años,Normal,21.3,71.5,4.3,2.0,"HDL bajo, glucosa",No,No,0.0,,0.0,No aplica
+82257,Mujer,25,25-29 años,Sobrepeso,25.9,83.2,4.0,0.0,ninguno,No,No,0.0,,0.0,No aplica
+82259,Hombre,20,18-24 años,Normal,21.9,80.8,4.2,0.0,ninguno,No,No,0.0,,0.0,No aplica
+82278,Hombre,20,18-24 años,Normal,20.7,81.2,5.3,0.0,ninguno,No,No,0.0,,0.0,No aplica
+82282,Hombre,34,30-35 años,Normal,24.9,86.4,6.6,0.0,ninguno,No,No,0.0,,0.0,No aplica
+82287,Mujer,19,18-24 años,Sobrepeso,28.4,94.2,4.4,2.0,"cintura, HDL bajo",No,No,0.0,,0.0,No aplica
+82308,Hombre,33,30-35 años,Normal,24.6,89.9,7.8,1.0,glucosa,No,Sí,0.0,,1.0,No aplica
+82310,Mujer,19,18-24 años,Normal,16.6,65.1,2.9,0.0,ninguno,No,No,0.0,,0.0,No aplica
+82315,Hombre,23,18-24 años,Normal,23.3,87.5,6.3,0.0,ninguno,No,No,0.0,,0.0,No aplica
+82318,Hombre,27,25-29 años,Normal,20.2,74.3,4.7,0.0,ninguno,No,No,0.0,,0.0,No aplica
+82320,Hombre,28,25-29 años,Sobrepeso,26.6,91.1,6.3,2.0,"triglicéridos, HDL bajo",No,No,0.0,,0.0,No aplica
+82337,Mujer,35,30-35 años,Sobrepeso,25.7,93.7,4.1,2.0,"cintura, glucosa",No,No,0.0,,0.0,No aplica
+82338,Mujer,31,30-35 años,Obesidad,32.2,111.8,4.2,4.0,"cintura, triglicéridos, HDL bajo, glucosa",Sí,No,1.0,0.0,0.0,"Sí, tenía algún diagnóstico"
+82340,Mujer,19,18-24 años,Sin dato,,,4.7,,ninguno,No evaluable,No,,,0.0,No aplica
+82342,Mujer,25,25-29 años,Obesidad,46.6,147.0,6.1,3.0,"cintura, HDL bajo, presión",Sí,Sí,1.0,0.0,1.0,"Sí, tenía algún diagnóstico"
+82345,Hombre,32,30-35 años,Obesidad,31.0,107.5,6.5,4.0,"cintura, triglicéridos, presión, glucosa",Sí,No,1.0,0.0,0.0,"Sí, tenía algún diagnóstico"
+82348,Mujer,29,25-29 años,Sobrepeso,28.8,100.4,3.1,2.0,"cintura, triglicéridos",No,No,0.0,,0.0,No aplica
+82389,Mujer,34,30-35 años,Obesidad,67.5,172.5,6.7,4.0,"cintura, triglicéridos, HDL bajo, glucosa",Sí,Sí,1.0,1.0,1.0,"No, sin diagnóstico previo"
+82391,Hombre,26,25-29 años,Sobrepeso,28.8,98.0,5.3,1.0,triglicéridos,No,No,0.0,,0.0,No aplica
+82395,Mujer,25,25-29 años,Normal,17.7,71.2,3.9,0.0,ninguno,No,No,0.0,,0.0,No aplica
+82396,Hombre,19,18-24 años,Normal,19.9,74.9,4.6,0.0,ninguno,No,No,0.0,,0.0,No aplica
+82397,Hombre,33,30-35 años,Sobrepeso,29.2,103.3,5.8,,cintura,No evaluable,No,,,0.0,No aplica
+82398,Hombre,31,30-35 años,Obesidad,38.4,117.7,6.7,2.0,"cintura, triglicéridos",No,No,0.0,,0.0,No aplica
+82401,Mujer,30,30-35 años,Normal,21.7,75.5,3.9,0.0,ninguno,No,No,0.0,,0.0,No aplica
+82408,Hombre,18,18-24 años,Sobrepeso,27.9,89.2,5.9,1.0,HDL bajo,No,No,0.0,,0.0,No aplica
+82410,Hombre,35,30-35 años,Sobrepeso,26.4,91.5,5.0,0.0,ninguno,No,No,0.0,,0.0,No aplica
+82412,Mujer,22,18-24 años,Obesidad,33.6,108.8,6.0,2.0,"cintura, glucosa",No,Sí,0.0,,1.0,No aplica
+82420,Hombre,35,30-35 años,Sobrepeso,27.6,87.8,5.9,0.0,ninguno,No,No,0.0,,0.0,No aplica
+82430,Mujer,24,18-24 años,Obesidad,31.1,96.8,5.5,4.0,"cintura, triglicéridos, HDL bajo, glucosa",Sí,No,1.0,1.0,0.0,"No, sin diagnóstico previo"
+82448,Hombre,29,25-29 años,Sobrepeso,29.3,102.9,9.1,1.0,cintura,No,Sí,0.0,,1.0,No aplica
+82450,Mujer,34,30-35 años,Obesidad,39.5,114.7,3.1,1.0,cintura,No,No,0.0,,0.0,No aplica
+82455,Mujer,25,25-29 años,Normal,20.6,76.2,3.2,1.0,HDL bajo,No,No,0.0,,0.0,No aplica
+82477,Hombre,34,30-35 años,Obesidad,31.5,115.2,3.8,4.0,"cintura, triglicéridos, HDL bajo, presión",Sí,No,1.0,1.0,0.0,"No, sin diagnóstico previo"
+82483,Hombre,32,30-35 años,Sobrepeso,26.2,88.3,7.6,3.0,"triglicéridos, HDL bajo, glucosa",Sí,Sí,1.0,1.0,1.0,"No, sin diagnóstico previo"
+82485,Mujer,33,30-35 años,Normal,24.7,80.2,2.7,2.0,"triglicéridos, HDL bajo",No,No,0.0,,0.0,No aplica
+82519,Mujer,25,25-29 años,Normal,20.4,71.4,4.2,0.0,ninguno,No,No,0.0,,0.0,No aplica
+82533,Mujer,26,25-29 años,Sobrepeso,26.8,90.7,4.8,2.0,"cintura, triglicéridos",No,No,0.0,,0.0,No aplica
+82538,Mujer,26,25-29 años,Normal,20.0,67.6,3.0,0.0,ninguno,No,No,0.0,,0.0,No aplica
+82550,Mujer,34,30-35 años,Obesidad,33.3,,3.9,,ninguno,No evaluable,No,,,0.0,No aplica
+82561,Hombre,30,30-35 años,Normal,19.8,78.4,5.7,0.0,ninguno,No,No,0.0,,0.0,No aplica
+82590,Mujer,21,18-24 años,Normal,24.6,91.0,4.0,2.0,"cintura, HDL bajo",No,No,0.0,,0.0,No aplica
+82591,Hombre,29,25-29 años,Obesidad,34.7,108.0,5.5,3.0,"cintura, presión, glucosa",Sí,No,1.0,1.0,0.0,"No, sin diagnóstico previo"
+82595,Hombre,18,18-24 años,Obesidad,33.1,108.1,6.9,5.0,"cintura, triglicéridos, HDL bajo, presión, glucosa",Sí,No,1.0,1.0,0.0,"No, sin diagnóstico previo"
+82613,Hombre,19,18-24 años,Sobrepeso,26.8,85.0,5.8,2.0,"HDL bajo, glucosa",No,No,0.0,,0.0,No aplica
+82617,Mujer,20,18-24 años,Obesidad,31.3,100.6,4.6,1.0,cintura,No,No,0.0,,0.0,No aplica
+82634,Hombre,23,18-24 años,Obesidad,40.5,116.3,5.7,2.0,"cintura, presión",No,No,0.0,,0.0,No aplica
+82640,Mujer,24,18-24 años,Normal,22.4,84.5,4.9,0.0,ninguno,No,No,0.0,,0.0,No aplica
+82644,Hombre,25,25-29 años,Sobrepeso,26.8,96.5,3.6,1.0,HDL bajo,No,No,0.0,,0.0,No aplica
+82648,Mujer,25,25-29 años,Obesidad,30.5,96.4,5.5,2.0,"cintura, HDL bajo",No,No,0.0,,0.0,No aplica
+82654,Mujer,18,18-24 años,Normal,24.2,81.3,3.4,0.0,ninguno,No,No,0.0,,0.0,No aplica
+82660,Mujer,32,30-35 años,Obesidad,56.3,143.4,6.2,4.0,"cintura, HDL bajo, presión, glucosa",Sí,Sí,1.0,0.0,1.0,"Sí, tenía algún diagnóstico"
+82669,Mujer,33,30-35 años,Obesidad,31.3,101.0,4.1,2.0,"cintura, HDL bajo",No,No,0.0,,0.0,No aplica
+82691,Hombre,29,25-29 años,Sobrepeso,29.0,101.4,8.1,3.0,"triglicéridos, HDL bajo, glucosa",Sí,Sí,1.0,1.0,1.0,"No, sin diagnóstico previo"
+82695,Hombre,20,18-24 años,Sobrepeso,28.2,96.2,5.9,1.0,triglicéridos,No,No,0.0,,0.0,No aplica
+82697,Mujer,18,18-24 años,Normal,18.8,65.3,4.7,0.0,ninguno,No,No,0.0,,0.0,No aplica
+82716,Mujer,19,18-24 años,Obesidad,31.9,100.1,2.9,1.0,cintura,No,No,0.0,,0.0,No aplica
+82718,Hombre,34,30-35 años,Normal,18.2,70.2,5.7,1.0,glucosa,No,No,0.0,,0.0,No aplica
+82724,Mujer,28,25-29 años,Obesidad,43.2,138.7,6.0,3.0,"cintura, triglicéridos, HDL bajo",Sí,Sí,1.0,1.0,1.0,"No, sin diagnóstico previo"
+82728,Mujer,18,18-24 años,Normal,17.0,64.0,4.4,0.0,ninguno,No,No,0.0,,0.0,No aplica
+82729,Mujer,22,18-24 años,Normal,21.1,73.7,4.1,0.0,ninguno,No,No,0.0,,0.0,No aplica
+82736,Hombre,26,25-29 años,Normal,19.1,80.0,6.2,0.0,ninguno,No,No,0.0,,0.0,No aplica
+82755,Mujer,32,30-35 años,Obesidad,50.8,151.5,5.5,5.0,"cintura, triglicéridos, HDL bajo, presión, glucosa",Sí,No,1.0,0.0,0.0,"Sí, tenía algún diagnóstico"
+82762,Mujer,26,25-29 años,Normal,24.9,86.0,4.1,1.0,triglicéridos,No,No,0.0,,0.0,No aplica
+82774,Mujer,19,18-24 años,Sobrepeso,29.2,90.7,3.2,1.0,cintura,No,No,0.0,,0.0,No aplica
+82780,Mujer,28,25-29 años,Obesidad,31.9,104.3,3.2,3.0,"cintura, HDL bajo, glucosa",Sí,No,1.0,1.0,0.0,"No, sin diagnóstico previo"
+82784,Mujer,32,30-35 años,Obesidad,54.3,142.7,8.4,3.0,"cintura, triglicéridos, HDL bajo",Sí,Sí,1.0,0.0,1.0,"Sí, tenía algún diagnóstico"
+82803,Mujer,23,18-24 años,Obesidad,31.7,107.1,5.3,2.0,"cintura, HDL bajo",No,No,0.0,,0.0,No aplica
+82805,Mujer,34,30-35 años,Obesidad,36.6,110.2,5.4,2.0,"cintura, HDL bajo",No,No,0.0,,0.0,No aplica
+82813,Mujer,24,18-24 años,Normal,23.4,79.5,5.0,0.0,ninguno,No,No,0.0,,0.0,No aplica
+82825,Mujer,18,18-24 años,Sobrepeso,28.0,80.7,4.3,0.0,ninguno,No,No,0.0,,0.0,No aplica
+82846,Mujer,33,30-35 años,Normal,22.0,82.0,3.8,0.0,ninguno,No,No,0.0,,0.0,No aplica
+82850,Hombre,30,30-35 años,Sobrepeso,28.4,99.5,7.5,2.0,"triglicéridos, HDL bajo",No,Sí,0.0,,1.0,No aplica
+82864,Hombre,31,30-35 años,Normal,20.2,78.6,3.7,0.0,ninguno,No,No,0.0,,0.0,No aplica
+82884,Hombre,18,18-24 años,Normal,16.2,67.3,5.8,0.0,ninguno,No,No,0.0,,0.0,No aplica
+82896,Mujer,22,18-24 años,Sobrepeso,27.3,100.5,3.7,1.0,cintura,No,No,0.0,,0.0,No aplica
+82933,Hombre,29,25-29 años,Obesidad,35.0,122.3,6.2,2.0,"cintura, presión",No,No,0.0,,0.0,No aplica
+82939,Hombre,23,18-24 años,Obesidad,35.1,102.9,7.0,3.0,"cintura, triglicéridos, HDL bajo",Sí,No,1.0,0.0,0.0,"Sí, tenía algún diagnóstico"
+82971,Mujer,34,30-35 años,Obesidad,37.1,115.0,5.8,2.0,"cintura, triglicéridos",No,Sí,0.0,,1.0,No aplica
+83009,Hombre,24,18-24 años,Normal,24.0,85.0,6.7,1.0,triglicéridos,No,No,0.0,,0.0,No aplica
+83011,Mujer,21,18-24 años,Normal,24.5,78.1,3.7,0.0,ninguno,No,No,0.0,,0.0,No aplica
+83018,Mujer,20,18-24 años,Normal,19.2,73.3,3.2,0.0,ninguno,No,No,0.0,,0.0,No aplica
+83039,Hombre,19,18-24 años,Normal,16.2,70.0,5.2,1.0,triglicéridos,No,No,0.0,,0.0,No aplica
+83041,Mujer,32,30-35 años,Sobrepeso,26.9,89.0,6.4,3.0,"cintura, triglicéridos, HDL bajo",Sí,Sí,1.0,1.0,1.0,"No, sin diagnóstico previo"
+83042,Mujer,26,25-29 años,Obesidad,41.5,131.6,3.2,3.0,"cintura, HDL bajo, presión",Sí,No,1.0,1.0,0.0,"No, sin diagnóstico previo"
+83047,Hombre,31,30-35 años,Normal,20.9,77.1,7.1,1.0,glucosa,No,Sí,0.0,,1.0,No aplica
+83059,Hombre,19,18-24 años,Normal,22.6,75.6,4.5,0.0,ninguno,No,No,0.0,,0.0,No aplica
+83067,Mujer,34,30-35 años,Obesidad,34.0,121.0,2.9,3.0,"cintura, presión, glucosa",Sí,No,1.0,0.0,0.0,"Sí, tenía algún diagnóstico"
+83074,Mujer,27,25-29 años,Normal,24.6,91.0,3.6,2.0,"cintura, HDL bajo",No,No,0.0,,0.0,No aplica
+83078,Hombre,32,30-35 años,Obesidad,30.3,104.7,5.1,2.0,"cintura, glucosa",No,No,0.0,,0.0,No aplica
+83082,Hombre,27,25-29 años,Sobrepeso,29.9,99.4,7.8,1.0,triglicéridos,No,Sí,0.0,,1.0,No aplica
+83083,Mujer,23,18-24 años,Obesidad,31.7,110.0,5.3,3.0,"cintura, HDL bajo, glucosa",Sí,No,1.0,0.0,0.0,"Sí, tenía algún diagnóstico"
+83085,Hombre,18,18-24 años,Normal,21.4,71.1,5.9,0.0,ninguno,No,No,0.0,,0.0,No aplica
+83096,Mujer,23,18-24 años,Obesidad,34.3,106.0,6.1,2.0,"cintura, HDL bajo",No,Sí,0.0,,1.0,No aplica
+83099,Hombre,32,30-35 años,Normal,20.6,81.4,4.9,2.0,"triglicéridos, HDL bajo",No,No,0.0,,0.0,No aplica
+83101,Mujer,21,18-24 años,Sobrepeso,27.4,83.0,4.8,0.0,ninguno,No,No,0.0,,0.0,No aplica
+83103,Mujer,32,30-35 años,Obesidad,38.3,112.0,4.7,4.0,"cintura, HDL bajo, presión, glucosa",Sí,No,1.0,0.0,0.0,"Sí, tenía algún diagnóstico"
+83131,Mujer,30,30-35 años,Normal,21.4,73.0,3.0,0.0,ninguno,No,No,0.0,,0.0,No aplica
+83144,Mujer,34,30-35 años,Obesidad,40.5,121.5,6.2,3.0,"cintura, HDL bajo, glucosa",Sí,Sí,1.0,1.0,1.0,"No, sin diagnóstico previo"
+83151,Mujer,23,18-24 años,Obesidad,32.1,108.4,4.9,3.0,"cintura, HDL bajo, glucosa",Sí,No,1.0,1.0,0.0,"No, sin diagnóstico previo"
+83152,Hombre,27,25-29 años,Sobrepeso,26.4,84.7,6.7,2.0,"HDL bajo, presión",No,No,0.0,,0.0,No aplica
+83153,Hombre,20,18-24 años,Normal,18.6,68.0,5.8,0.0,ninguno,No,No,0.0,,0.0,No aplica
+83157,Hombre,31,30-35 años,Sobrepeso,29.6,99.0,5.9,1.0,HDL bajo,No,No,0.0,,0.0,No aplica
+83162,Mujer,19,18-24 años,Normal,22.9,81.8,5.9,0.0,ninguno,No,Sí,0.0,,1.0,No aplica
+83172,Hombre,23,18-24 años,Sobrepeso,28.7,104.8,6.9,3.0,"cintura, triglicéridos, HDL bajo",Sí,No,1.0,1.0,0.0,"No, sin diagnóstico previo"
+83220,Hombre,23,18-24 años,Obesidad,31.8,107.0,5.6,3.0,"cintura, triglicéridos, HDL bajo",Sí,No,1.0,1.0,0.0,"No, sin diagnóstico previo"
+83248,Mujer,35,30-35 años,Sobrepeso,29.4,94.1,4.9,3.0,"cintura, triglicéridos, HDL bajo",Sí,No,1.0,1.0,0.0,"No, sin diagnóstico previo"
+83249,Mujer,28,25-29 años,Obesidad,34.7,99.2,6.3,4.0,"cintura, triglicéridos, HDL bajo, presión",Sí,Sí,1.0,0.0,1.0,"Sí, tenía algún diagnóstico"
+83251,Mujer,23,18-24 años,Normal,16.9,79.0,4.1,1.0,HDL bajo,No,No,0.0,,0.0,No aplica
+83256,Mujer,19,18-24 años,Normal,16.8,68.8,5.8,0.0,ninguno,No,Sí,0.0,,1.0,No aplica
+83258,Mujer,33,30-35 años,Sobrepeso,25.4,84.2,3.8,0.0,ninguno,No,No,0.0,,0.0,No aplica
+83260,Mujer,24,18-24 años,Normal,21.4,82.9,4.4,0.0,ninguno,No,No,0.0,,0.0,No aplica
+83270,Hombre,18,18-24 años,Normal,24.6,80.4,6.4,0.0,ninguno,No,No,0.0,,0.0,No aplica
+83271,Hombre,21,18-24 años,Normal,24.9,89.2,6.6,0.0,ninguno,No,No,0.0,,0.0,No aplica
+83276,Hombre,35,30-35 años,Normal,24.2,85.2,3.9,0.0,ninguno,No,No,0.0,,0.0,No aplica
+83286,Mujer,24,18-24 años,Normal,21.5,73.8,2.7,0.0,ninguno,No,No,0.0,,0.0,No aplica
+83296,Mujer,25,25-29 años,Normal,21.4,76.1,4.4,1.0,HDL bajo,No,No,0.0,,0.0,No aplica
+83313,Mujer,24,18-24 años,Sobrepeso,29.0,96.7,3.6,2.0,"cintura, HDL bajo",No,No,0.0,,0.0,No aplica
+83331,Hombre,18,18-24 años,Normal,21.9,74.6,6.4,0.0,ninguno,No,No,0.0,,0.0,No aplica
+83334,Hombre,27,25-29 años,Sobrepeso,25.6,91.8,7.8,1.0,HDL bajo,No,Sí,0.0,,1.0,No aplica
+83336,Mujer,32,30-35 años,Sobrepeso,27.8,103.0,4.8,4.0,"cintura, triglicéridos, HDL bajo, presión",Sí,No,1.0,0.0,0.0,"Sí, tenía algún diagnóstico"
+83349,Mujer,18,18-24 años,Normal,20.3,70.5,4.0,0.0,ninguno,No,No,0.0,,0.0,No aplica
+83352,Hombre,20,18-24 años,Sobrepeso,28.1,93.9,6.3,1.0,presión,No,No,0.0,,0.0,No aplica
+83362,Mujer,31,30-35 años,Normal,20.6,82.0,4.9,1.0,HDL bajo,No,No,0.0,,0.0,No aplica
+83363,Hombre,28,25-29 años,Sobrepeso,27.5,98.7,5.1,1.0,triglicéridos,No,No,0.0,,0.0,No aplica
+83372,Mujer,25,25-29 años,Sobrepeso,25.5,91.1,4.8,2.0,"cintura, HDL bajo",No,No,0.0,,0.0,No aplica
+83389,Hombre,30,30-35 años,Obesidad,35.7,113.4,7.5,1.0,cintura,No,Sí,0.0,,1.0,No aplica
+83396,Hombre,21,18-24 años,Normal,16.7,65.8,5.0,0.0,ninguno,No,No,0.0,,0.0,No aplica
+83397,Mujer,19,18-24 años,Sin dato,,,3.7,,ninguno,No evaluable,No,,,0.0,No aplica
+83399,Hombre,23,18-24 años,Normal,19.4,75.4,5.8,2.0,"triglicéridos, HDL bajo",No,No,0.0,,0.0,No aplica
+83415,Mujer,26,25-29 años,Normal,19.9,73.5,3.6,1.0,triglicéridos,No,No,0.0,,0.0,No aplica
+83430,Mujer,23,18-24 años,Normal,24.6,81.5,3.6,0.0,ninguno,No,No,0.0,,0.0,No aplica
+83447,Hombre,32,30-35 años,Obesidad,38.2,122.8,6.2,2.0,"cintura, glucosa",No,No,0.0,,0.0,No aplica
+83453,Mujer,19,18-24 años,Normal,21.0,75.6,3.9,0.0,ninguno,No,No,0.0,,0.0,No aplica
+83465,Hombre,24,18-24 años,Sobrepeso,25.1,86.0,5.2,0.0,ninguno,No,No,0.0,,0.0,No aplica
+83476,Hombre,22,18-24 años,Normal,23.0,83.6,3.9,3.0,"triglicéridos, HDL bajo, presión",Sí,No,1.0,1.0,0.0,"No, sin diagnóstico previo"
+83477,Hombre,20,18-24 años,Sobrepeso,25.3,88.0,5.7,1.0,presión,No,No,0.0,,0.0,No aplica
+83485,Hombre,18,18-24 años,Normal,19.7,68.5,4.2,0.0,ninguno,No,No,0.0,,0.0,No aplica
+83487,Hombre,33,30-35 años,Sobrepeso,27.0,104.0,5.3,1.0,cintura,No,No,0.0,,0.0,No aplica
+83492,Hombre,22,18-24 años,Normal,24.3,93.5,4.9,0.0,ninguno,No,No,0.0,,0.0,No aplica
+83494,Mujer,19,18-24 años,Obesidad,30.0,103.9,5.1,2.0,"cintura, triglicéridos",No,No,0.0,,0.0,No aplica
+83518,Mujer,33,30-35 años,Obesidad,30.2,94.3,6.0,2.0,"cintura, HDL bajo",No,Sí,0.0,,1.0,No aplica
+83519,Hombre,19,18-24 años,Obesidad,40.9,132.3,7.3,2.0,"cintura, presión",No,Sí,0.0,,1.0,No aplica
+83522,Mujer,35,30-35 años,Normal,24.1,83.3,6.8,4.0,"triglicéridos, HDL bajo, presión, glucosa",Sí,Sí,1.0,0.0,1.0,"Sí, tenía algún diagnóstico"
+83525,Hombre,33,30-35 años,Obesidad,35.7,129.0,6.0,3.0,"cintura, triglicéridos, presión",Sí,No,1.0,1.0,0.0,"No, sin diagnóstico previo"
+83527,Hombre,18,18-24 años,Sobrepeso,25.8,87.7,7.0,0.0,ninguno,No,No,0.0,,0.0,No aplica
+83536,Mujer,20,18-24 años,Obesidad,38.9,101.1,6.3,3.0,"cintura, triglicéridos, HDL bajo",Sí,Sí,1.0,1.0,1.0,"No, sin diagnóstico previo"
+83540,Hombre,30,30-35 años,Sobrepeso,26.9,97.8,5.5,2.0,"triglicéridos, HDL bajo",No,No,0.0,,0.0,No aplica
+83568,Mujer,32,30-35 años,Sobrepeso,26.9,88.8,5.1,2.0,"cintura, glucosa",No,No,0.0,,0.0,No aplica
+83580,Hombre,28,25-29 años,Sobrepeso,29.8,99.9,7.4,0.0,ninguno,No,Sí,0.0,,1.0,No aplica
+83583,Hombre,20,18-24 años,Obesidad,37.4,129.9,7.7,1.0,cintura,No,Sí,0.0,,1.0,No aplica
+83610,Hombre,18,18-24 años,Normal,23.8,89.0,5.7,1.0,HDL bajo,No,No,0.0,,0.0,No aplica
+83613,Hombre,23,18-24 años,Normal,23.8,85.3,5.5,0.0,ninguno,No,No,0.0,,0.0,No aplica
+83619,Hombre,31,30-35 años,Sobrepeso,26.7,92.0,6.5,0.0,ninguno,No,No,0.0,,0.0,No aplica
+83620,Mujer,29,25-29 años,Normal,20.0,72.7,4.7,0.0,ninguno,No,No,0.0,,0.0,No aplica
+83636,Hombre,25,25-29 años,Sobrepeso,26.7,84.9,6.0,0.0,ninguno,No,No,0.0,,0.0,No aplica
+83642,Hombre,33,30-35 años,Sobrepeso,27.4,103.2,6.3,2.0,"cintura, glucosa",No,No,0.0,,0.0,No aplica
+83648,Mujer,18,18-24 años,Normal,20.5,71.0,4.1,0.0,ninguno,No,No,0.0,,0.0,No aplica
+83659,Hombre,19,18-24 años,Sobrepeso,27.3,82.0,3.5,0.0,ninguno,No,No,0.0,,0.0,No aplica
+83668,Mujer,21,18-24 años,Normal,20.7,76.9,4.9,0.0,ninguno,No,No,0.0,,0.0,No aplica
+83677,Mujer,18,18-24 años,Sobrepeso,26.8,89.8,3.9,2.0,"cintura, HDL bajo",No,No,0.0,,0.0,No aplica
+83683,Mujer,33,30-35 años,Obesidad,30.0,106.4,4.8,2.0,"cintura, glucosa",No,No,0.0,,0.0,No aplica
+83689,Mujer,30,30-35 años,Normal,23.6,86.4,3.2,1.0,HDL bajo,No,No,0.0,,0.0,No aplica
+83700,Mujer,29,25-29 años,Sobrepeso,26.3,92.5,3.7,,cintura,No evaluable,No,,,0.0,No aplica
+83705,Mujer,35,30-35 años,Sobrepeso,25.6,85.8,3.7,0.0,ninguno,No,No,0.0,,0.0,No aplica
+83707,Hombre,18,18-24 años,Normal,22.5,76.8,6.7,0.0,ninguno,No,No,0.0,,0.0,No aplica
+83709,Hombre,24,18-24 años,Normal,24.3,85.4,5.0,1.0,triglicéridos,No,No,0.0,,0.0,No aplica
+83713,Hombre,34,30-35 años,Normal,23.7,,7.2,,"triglicéridos, glucosa",No evaluable,Sí,,,1.0,No aplica
+83727,Hombre,26,25-29 años,Normal,24.5,87.1,5.3,1.0,glucosa,No,No,0.0,,0.0,No aplica

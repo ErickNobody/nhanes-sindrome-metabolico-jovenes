@@ -1,0 +1,15 @@
+# Archivo de NHANES que supera el límite de 100 MB de GitHub (se descarga con codigo/00_descargar_nhanes.py)
+datos/crudos/PAXHR_H.xpt
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+~$*
