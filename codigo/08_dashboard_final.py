@@ -258,7 +258,8 @@ h1{{font-size:27px;line-height:1.2;margin:0 0 4px;font-weight:700;max-width:900p
 .kpi.neutro .v{{font-size:30px;color:var(--t1)}}
 .kpi .l{{font-size:15px;color:var(--t1);margin-top:4px;font-weight:600}}
 .kpi .d{{font-size:12.5px;color:var(--t2);margin-top:2px}}
-.grid{{display:grid;grid-template-columns:1.45fr 1fr;gap:28px;margin-top:6px}}
+.grid{{display:grid;grid-template-columns:minmax(0,1.45fr) minmax(0,1fr);gap:28px;margin-top:6px}}
+.panel{{min-width:0}} .panel > div[id^=g_]{{width:100%}} #g_principal{{height:520px}} #g_porque{{height:255px}} #g_edad{{height:200px}}
 .panel h2{{font-size:17px;margin:6px 0 2px;font-weight:700}}
 .panel h3{{font-size:15px;margin:2px 0 0;font-weight:700}}
 .panel p.q{{font-size:12px;color:var(--t3);margin:0;text-transform:uppercase;letter-spacing:.04em}}
@@ -270,8 +271,8 @@ footer a{{color:var(--t2)}}
   <div><h1 id="titulo">{t0['titulo']}</h1>
   <p class="sub">Adultos de 18 a 35 años en EE. UU. · NHANES 2013–2014 · <span id="ntxt">n = {estados['Todos|Todas']['n']:,}</span> con los cinco componentes evaluables</p></div>
   <div class="filtros">
-    <div><label for="f_sexo">Sexo</label><select id="f_sexo">{''.join(f'<option>{x}</option>' for x in SEXOS)}</select></div>
-    <div><label for="f_imc">Categoría de IMC</label><select id="f_imc">{''.join(f'<option>{x}</option>' for x in IMCS)}</select></div>
+    <div><label for="f_sexo">Sexo</label><select id="f_sexo" autocomplete="off">{''.join(f'<option>{x}</option>' for x in SEXOS)}</select></div>
+    <div><label for="f_imc">Categoría de IMC</label><select id="f_imc" autocomplete="off">{''.join(f'<option>{x}</option>' for x in IMCS)}</select></div>
   </div>
 </header>
 <section class="kpis">
@@ -301,13 +302,22 @@ Diseño transversal: las diferencias son <b>asociaciones, no causas</b>. Código
 <script>
 const E = {json.dumps(estados, ensure_ascii=False)};
 const CFG = {{displaylogo:false, responsive:true, modeBarButtonsToRemove:['lasso2d','select2d','autoScale2d'], locale:'es'}};
-function pinta(){{
+const G = ['g_principal','g_porque','g_edad'];
+function pinta(primera){{
   const k = document.getElementById('f_sexo').value + '|' + document.getElementById('f_imc').value, s = E[k];
-  for (const g of ['principal','porque','edad']) Plotly.react('g_'+g, s[g].data, s[g].layout, CFG);
+  for (const g of G) (primera === true ? Plotly.newPlot : Plotly.react)('g_'+g.slice(2), s[g.slice(2)].data, s[g.slice(2)].layout, CFG);
   for (const [id,v] of Object.entries(s.textos)) document.getElementById(id).innerHTML = v;
   document.getElementById('ntxt').textContent = 'n = ' + s.n.toLocaleString('en-US');
+  ajusta();
 }}
-document.getElementById('f_sexo').onchange = pinta; document.getElementById('f_imc').onchange = pinta; pinta();
+// Vuelve a medir el ancho real de cada gráfica (algunos navegadores lo calculan antes de acomodar la cuadrícula)
+function ajusta(){{ requestAnimationFrame(() => G.forEach(id => {{ const el = document.getElementById(id); if (el && el.data) Plotly.Plots.resize(el); }})); }}
+document.getElementById('f_sexo').onchange = pinta; document.getElementById('f_imc').onchange = pinta;
+// Si el navegador recuerda la selección anterior al recargar, se vuelve a la vista inicial
+document.getElementById('f_sexo').value = 'Todos'; document.getElementById('f_imc').value = 'Todas';
+pinta(true);
+window.addEventListener('load', () => {{ ajusta(); setTimeout(ajusta, 400); }});
+window.addEventListener('resize', ajusta);
 </script></body></html>"""
 (FIG_A4 / 'dashboard_final.html').write_text(HTML, encoding='utf-8')
 
