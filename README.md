@@ -17,8 +17,11 @@ Autor: Erick Israel Rodríguez Zavala.
 | 3 · Estática | Porcentaje que no lo sabe por componente, con IC 95 % | `figuras/avance3/estatica_no_lo_sabe.png` |
 | 3 · Interactiva | Cintura vs. ácido úrico por sexo, con ficha al pasar el cursor, filtro por edad y leyenda clicable | `figuras/avance3/interactiva_cintura_acido_urico.html` |
 | 3 · BI | Tablero en Tableau Public con KPI, filtros y tooltips | [Ver tablero](https://public.tableau.com/app/profile/erick.israel.rodriguez.zavala/viz/SindromemetabolicosilenciosojovenesNHANES_/Dashboard1) |
+| 4 · Final | Dashboard final: indicadores con IC 95 %, qué se escapa, por qué no lo saben y dónde se concentra; filtros por sexo e IMC | `figuras/avance4/dashboard_final.html` |
 
-**Ver la gráfica interactiva en línea:** *(enlace de GitHub Pages)*
+**Dashboard final en línea:** [https://ericknobody.github.io/nhanes-sindrome-metabolico-jovenes/](https://ericknobody.github.io/nhanes-sindrome-metabolico-jovenes/)
+
+**Ver la gráfica interactiva en línea:** [https://ericknobody.github.io/nhanes-sindrome-metabolico-jovenes/figuras/avance3/interactiva_cintura_acido_urico.html](https://ericknobody.github.io/nhanes-sindrome-metabolico-jovenes/figuras/avance3/interactiva_cintura_acido_urico.html)
 Para verla en local, descarga el archivo `.html` y ábrelo con cualquier navegador (no requiere instalar nada).
 
 **Recorrido completo, con explicaciones:** [`notebooks/proyecto_nhanes_sindrome_metabolico.ipynb`](notebooks/proyecto_nhanes_sindrome_metabolico.ipynb) (carga → limpieza → EDA → visualizaciones finales).
@@ -50,13 +53,15 @@ Para verla en local, descarga el archivo `.html` y ábrelo con cualquier navegad
 │   ├── 04_graficas_avance2.py  5 gráficas del EDA
 │   ├── 05_estatica_avance3.py  visualización estática mejorada
 │   ├── 06_interactiva_avance3.py visualización interactiva (HTML)
-│   └── 07_datos_tableau.py     Excel con etiquetas en español para Tableau
+│   ├── 07_datos_tableau.py     Excel con etiquetas en español para Tableau
+│   └── 08_dashboard_final.py   dashboard final (Avance 4) en una página HTML
 ├── datos/
 │   ├── crudos/                 archivos originales de NHANES, sin modificar
 │   ├── procesados/             tabla limpia (una fila por persona)
 │   ├── resumen/                tablas agregadas que alimentan las gráficas
 │   └── tableau/                datos para el tablero (xlsx + csv)
-├── figuras/avance2/ · figuras/avance3/
+├── figuras/avance2/ · figuras/avance3/ · figuras/avance4/
+├── index.html                  página de inicio de GitHub Pages: abre el dashboard final
 ├── notebooks/                  cuaderno con todo el flujo documentado
 └── docs/diccionario_datos.md
 ```
@@ -80,6 +85,7 @@ python 04_graficas_avance2.py
 python 05_estatica_avance3.py
 python 06_interactiva_avance3.py
 python 07_datos_tableau.py
+python 08_dashboard_final.py
 ```
 
 O abre el cuaderno y ejecuta todas las celdas: `jupyter notebook notebooks/proyecto_nhanes_sindrome_metabolico.ipynb`.
